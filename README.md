@@ -1,0 +1,2 @@
+# WWDCForJapanese
+WWDCの英語字幕と日本語字幕を同時に見れるようにするアプリ
