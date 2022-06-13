@@ -41,6 +41,8 @@
 		DA47EADC28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */; };
 		DA47EADE28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */; };
 		DA47EADF28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */; };
+		DA47EAE1285780D6003A8ACF /* Hello Swift Charts.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAE0285780D6003A8ACF /* Hello Swift Charts.swift */; };
+		DA47EAE2285780D6003A8ACF /* Hello Swift Charts.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAE0285780D6003A8ACF /* Hello Swift Charts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +88,7 @@
 		DA47EAD7285720D6003A8ACF /* WWDC22Articles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDC22Articles.swift; sourceTree = "<group>"; };
 		DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Complications and widgets- Reloaded .swift"; sourceTree = "<group>"; };
 		DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create parametric 3D room scans with RoomPlan.swift"; sourceTree = "<group>"; };
+		DA47EAE0285780D6003A8ACF /* Hello Swift Charts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hello Swift Charts.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +228,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
+				DA47EAE0285780D6003A8ACF /* Hello Swift Charts.swift */,
 				DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */,
 				DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */,
 			);
@@ -401,6 +405,7 @@
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA47EAE1285780D6003A8ACF /* Hello Swift Charts.swift in Sources */,
 				DA47EAA82857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC1285703C2003A8ACF /* ArrayExt.swift in Sources */,
 			);
@@ -422,6 +427,7 @@
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA47EAE2285780D6003A8ACF /* Hello Swift Charts.swift in Sources */,
 				DA47EAA92857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC2285703C2003A8ACF /* ArrayExt.swift in Sources */,
 			);
