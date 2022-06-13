@@ -15,8 +15,8 @@
 		DA47EAA52857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA792857035C003A8ACF /* WWDCForJapanese.xcdatamodeld */; };
 		DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7B2857035C003A8ACF /* WWDCForJapaneseApp.swift */; };
 		DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7B2857035C003A8ACF /* WWDCForJapaneseApp.swift */; };
-		DA47EAA82857035D003A8ACF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7C2857035C003A8ACF /* ContentView.swift */; };
-		DA47EAA92857035D003A8ACF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7C2857035C003A8ACF /* ContentView.swift */; };
+		DA47EAA82857035D003A8ACF /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7C2857035C003A8ACF /* RootView.swift */; };
+		DA47EAA92857035D003A8ACF /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7C2857035C003A8ACF /* RootView.swift */; };
 		DA47EAAA2857035D003A8ACF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7D2857035C003A8ACF /* Persistence.swift */; };
 		DA47EAAB2857035D003A8ACF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA7D2857035C003A8ACF /* Persistence.swift */; };
 		DA47EAAC2857035D003A8ACF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA47EA7E2857035D003A8ACF /* Assets.xcassets */; };
@@ -25,6 +25,20 @@
 		DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EABC28570399003A8ACF /* WWDCFormatter.swift */; };
 		DA47EAC1285703C2003A8ACF /* ArrayExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAC0285703C2003A8ACF /* ArrayExt.swift */; };
 		DA47EAC2285703C2003A8ACF /* ArrayExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAC0285703C2003A8ACF /* ArrayExt.swift */; };
+		DA47EAC728570701003A8ACF /* ItemDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAC628570701003A8ACF /* ItemDetailView.swift */; };
+		DA47EAC828570701003A8ACF /* ItemDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAC628570701003A8ACF /* ItemDetailView.swift */; };
+		DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */; };
+		DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */; };
+		DA47EACF28570CCE003A8ACF /* ArticleProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EACE28570CCE003A8ACF /* ArticleProtocol.swift */; };
+		DA47EAD028570CCE003A8ACF /* ArticleProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EACE28570CCE003A8ACF /* ArticleProtocol.swift */; };
+		DA47EAD228571D61003A8ACF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAD128571D61003A8ACF /* HomeView.swift */; };
+		DA47EAD328571D61003A8ACF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAD128571D61003A8ACF /* HomeView.swift */; };
+		DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAD428571D82003A8ACF /* MyPageView.swift */; };
+		DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAD428571D82003A8ACF /* MyPageView.swift */; };
+		DA47EAD8285720D6003A8ACF /* WWDC22Articles.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAD7285720D6003A8ACF /* WWDC22Articles.swift */; };
+		DA47EAD9285720D6003A8ACF /* WWDC22Articles.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAD7285720D6003A8ACF /* WWDC22Articles.swift */; };
+		DA47EADB28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */; };
+		DA47EADC28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +61,7 @@
 /* Begin PBXFileReference section */
 		DA47EA7A2857035C003A8ACF /* Shared.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Shared.xcdatamodel; sourceTree = "<group>"; };
 		DA47EA7B2857035C003A8ACF /* WWDCForJapaneseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDCForJapaneseApp.swift; sourceTree = "<group>"; };
-		DA47EA7C2857035C003A8ACF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		DA47EA7C2857035C003A8ACF /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		DA47EA7D2857035C003A8ACF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		DA47EA7E2857035D003A8ACF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA47EA832857035D003A8ACF /* WWDCForJapanese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WWDCForJapanese.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,6 +75,14 @@
 		DA47EAA22857035D003A8ACF /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
 		DA47EABC28570399003A8ACF /* WWDCFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDCFormatter.swift; sourceTree = "<group>"; };
 		DA47EAC0285703C2003A8ACF /* ArrayExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayExt.swift; sourceTree = "<group>"; };
+		DA47EAC4285706C4003A8ACF /* WWDCForJapanese (iOS).entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "WWDCForJapanese (iOS).entitlements"; sourceTree = "<group>"; };
+		DA47EAC628570701003A8ACF /* ItemDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailView.swift; sourceTree = "<group>"; };
+		DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in SF Symbols 4.swift"; sourceTree = "<group>"; };
+		DA47EACE28570CCE003A8ACF /* ArticleProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleProtocol.swift; sourceTree = "<group>"; };
+		DA47EAD128571D61003A8ACF /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		DA47EAD428571D82003A8ACF /* MyPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPageView.swift; sourceTree = "<group>"; };
+		DA47EAD7285720D6003A8ACF /* WWDC22Articles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDC22Articles.swift; sourceTree = "<group>"; };
+		DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Complications and widgets- Reloaded .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +120,7 @@
 		DA47EA732857035C003A8ACF = {
 			isa = PBXGroup;
 			children = (
+				DA47EAC4285706C4003A8ACF /* WWDCForJapanese (iOS).entitlements */,
 				DA47EA782857035C003A8ACF /* Shared */,
 				DA47EA8A2857035D003A8ACF /* macOS */,
 				DA47EA932857035D003A8ACF /* Tests iOS */,
@@ -110,9 +133,10 @@
 			isa = PBXGroup;
 			children = (
 				DA47EABF285703B7003A8ACF /* Extension */,
+				DA47EAC928570C37003A8ACF /* Data */,
+				DA47EAC5285706F5003A8ACF /* Views */,
 				DA47EAC3285703D5003A8ACF /* Utils */,
 				DA47EA7B2857035C003A8ACF /* WWDCForJapaneseApp.swift */,
-				DA47EA7C2857035C003A8ACF /* ContentView.swift */,
 				DA47EA7E2857035D003A8ACF /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -171,6 +195,36 @@
 				DA47EABC28570399003A8ACF /* WWDCFormatter.swift */,
 			);
 			path = Utils;
+			sourceTree = "<group>";
+		};
+		DA47EAC5285706F5003A8ACF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EA7C2857035C003A8ACF /* RootView.swift */,
+				DA47EAD128571D61003A8ACF /* HomeView.swift */,
+				DA47EAD428571D82003A8ACF /* MyPageView.swift */,
+				DA47EAC628570701003A8ACF /* ItemDetailView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		DA47EAC928570C37003A8ACF /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EAD7285720D6003A8ACF /* WWDC22Articles.swift */,
+				DA47EACE28570CCE003A8ACF /* ArticleProtocol.swift */,
+				DA47EACA28570C45003A8ACF /* WWDC22 */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		DA47EACA28570C45003A8ACF /* WWDC22 */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
+				DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */,
+			);
+			path = WWDC22;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -331,11 +385,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA42857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
+				DA47EACF28570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
+				DA47EAD8285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
+				DA47EAD228571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EAAA2857035D003A8ACF /* Persistence.swift in Sources */,
+				DA47EADB28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */,
+				DA47EAC728570701003A8ACF /* ItemDetailView.swift in Sources */,
+				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
-				DA47EAA82857035D003A8ACF /* ContentView.swift in Sources */,
+				DA47EAA82857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC1285703C2003A8ACF /* ArrayExt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -344,11 +405,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA52857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
+				DA47EAD028570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
+				DA47EAD9285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
+				DA47EAD328571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EAAB2857035D003A8ACF /* Persistence.swift in Sources */,
+				DA47EADC28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */,
+				DA47EAC828570701003A8ACF /* ItemDetailView.swift in Sources */,
+				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
-				DA47EAA92857035D003A8ACF /* ContentView.swift in Sources */,
+				DA47EAA92857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC2285703C2003A8ACF /* ArrayExt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -437,6 +505,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -489,6 +559,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -501,6 +573,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "WWDCForJapanese (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = A93B2TPWBT;
@@ -511,7 +584,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -520,9 +593,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.tsuzuki817.WWDCForJapanese;
 				PRODUCT_NAME = WWDCForJapanese;
 				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 			};
 			name = Debug;
 		};
@@ -531,6 +605,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "WWDCForJapanese (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = A93B2TPWBT;
@@ -541,7 +616,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -550,9 +625,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.tsuzuki817.WWDCForJapanese;
 				PRODUCT_NAME = WWDCForJapanese;
 				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -575,7 +651,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tsuzuki817.WWDCForJapanese;
 				PRODUCT_NAME = WWDCForJapanese;
@@ -603,7 +679,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tsuzuki817.WWDCForJapanese;
 				PRODUCT_NAME = WWDCForJapanese;
