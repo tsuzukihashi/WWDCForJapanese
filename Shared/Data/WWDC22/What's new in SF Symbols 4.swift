@@ -9,10 +9,6 @@ struct WhatsNewInSFSymbols4: ArticleProtocol {
         "What's new in SF Symbols 4"
     }
 
-    var description: [String] {
-        WWDCFormatter.convertString(item: self)
-    }
-
     var link: URL {
         URL(string: "https://developer.apple.com/videos/play/wwdc2022/10157/")!
     }

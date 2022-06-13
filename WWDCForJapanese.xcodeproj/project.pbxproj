@@ -39,6 +39,8 @@
 		DA47EAD9285720D6003A8ACF /* WWDC22Articles.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAD7285720D6003A8ACF /* WWDC22Articles.swift */; };
 		DA47EADB28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */; };
 		DA47EADC28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */; };
+		DA47EADE28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */; };
+		DA47EADF28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +85,7 @@
 		DA47EAD428571D82003A8ACF /* MyPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPageView.swift; sourceTree = "<group>"; };
 		DA47EAD7285720D6003A8ACF /* WWDC22Articles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDC22Articles.swift; sourceTree = "<group>"; };
 		DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Complications and widgets- Reloaded .swift"; sourceTree = "<group>"; };
+		DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create parametric 3D room scans with RoomPlan.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +225,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
+				DA47EADD28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift */,
 				DA47EADA28574A3F003A8ACF /* Complications and widgets- Reloaded .swift */,
 			);
 			path = WWDC22;
@@ -393,6 +397,7 @@
 				DA47EAAA2857035D003A8ACF /* Persistence.swift in Sources */,
 				DA47EADB28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */,
 				DA47EAC728570701003A8ACF /* ItemDetailView.swift in Sources */,
+				DA47EADE28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift in Sources */,
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
@@ -413,6 +418,7 @@
 				DA47EAAB2857035D003A8ACF /* Persistence.swift in Sources */,
 				DA47EADC28574A3F003A8ACF /* Complications and widgets- Reloaded .swift in Sources */,
 				DA47EAC828570701003A8ACF /* ItemDetailView.swift in Sources */,
+				DA47EADF28577E76003A8ACF /* Create parametric 3D room scans with RoomPlan.swift in Sources */,
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,

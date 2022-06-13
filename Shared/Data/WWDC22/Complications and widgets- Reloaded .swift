@@ -9,10 +9,6 @@ struct ComplicationsAndWidgetsReloaded: ArticleProtocol {
         "Complications and widgets: Reloaded"
     }
 
-    var description: [String] {
-        WWDCFormatter.convertString(item: self)
-    }
-
     var link: URL {
         URL(string: "https://developer.apple.com/videos/play/wwdc2022/10050/")!
     }

@@ -8,7 +8,7 @@ struct ItemDetailView: View {
         ScrollViewReader { scrollProxy in
             ScrollView {
                 VStack(alignment: .leading, spacing: 16) {
-                    ForEach(article.description, id: \.self) { text in
+                    ForEach(WWDCFormatter.convertString(item: article), id: \.self) { text in
                         Text(text)
                             .fontWeight(text == targetString ? .heavy : .light)
                             .textSelection(.enabled)
