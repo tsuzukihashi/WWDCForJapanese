@@ -5,6 +5,7 @@ enum WWDC22Articles: CaseIterable {
     case complicationsAndWidgetsReloaded
     case createParametric3DRoomScansWithRoomPlan
     case helloSwiftCharts
+    case bringYourDriverToiPadWithDriverKit
 
     var value: Article {
         switch self {
@@ -16,6 +17,8 @@ enum WWDC22Articles: CaseIterable {
             return .init(item: CreateParametric3DRoomScansWithRoomPlan())
         case .helloSwiftCharts:
             return .init(item: HelloSwiftCharts())
+        case .bringYourDriverToiPadWithDriverKit:
+            return .init(item: BringYourDriverToiPadWithDriverKit())
         }
     }
 }
