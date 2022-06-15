@@ -16,7 +16,7 @@ struct HomeView: View {
                         HStack {
                             LazyImage(source: article.value.imageUrl, resizingMode: .aspectFill)
                                 .frame(width: 80, height: 50, alignment: .center)
-                            Text(article.value.title)
+                            Text(article.rawValue)
                         }
                     }
                 }

@@ -64,6 +64,8 @@
 		DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */; };
 		DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */; };
 		DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */; };
+		DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */; };
+		DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,6 +122,7 @@
 		DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capture machine-readable codes and text with VisionKit .swift"; sourceTree = "<group>"; };
 		DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a more responsive media app.swift"; sourceTree = "<group>"; };
 		DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create macOS or Linux virtual machines.swift"; sourceTree = "<group>"; };
+		DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Deliver reliable streams with HLS Content Steering .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -260,6 +263,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
+				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
 				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
@@ -458,6 +462,7 @@
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EAFF2859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
@@ -490,6 +495,7 @@
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */,

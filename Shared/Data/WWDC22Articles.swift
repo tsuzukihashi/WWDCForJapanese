@@ -1,6 +1,6 @@
 import Foundation
 
-enum WWDC22Articles: CaseIterable {
+enum WWDC22Articles: String, CaseIterable {
     case AddaccessibilitytoyourUnitygames
     case AdoptVariableColorinSFSymbols
     case Adoptdesktopclasseditinginteractions
@@ -202,7 +202,7 @@ enum WWDC22Articles: CaseIterable {
         case .Createparametric3DroomscanswithRoomPlan:
             return .init(item: CreateParametric3DRoomScansWithRoomPlanArticle())
         case .DeliverreliablestreamswithHLSContentSteering:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: DeliverReliableStreamsWithHLSContentSteering())
         case .DiscoverMetal3:
             return .init(item: HelloSwiftChartsArticle())
         case .DiveintoAppIntents:
