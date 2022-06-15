@@ -218,7 +218,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .GetthemostoutofXcodeCloud:
             return .init(item: GetTheMostOutOfXcodeCloud())
         case .GettimelyalertsfromBluetoothdevicesonwatchOS:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: GetTimelyAlertsFromBluetoothDevicesOnWatchOS())
         case .GettoknowCreateMLComponents:
             return .init(item: HelloSwiftChartsArticle())
         case .GettoknowDeveloperMode:

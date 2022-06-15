@@ -80,6 +80,8 @@
 		DA47EB1D2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB1B2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift */; };
 		DA47EB202859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */; };
 		DA47EB212859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */; };
+		DA47EB242859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */; };
+		DA47EB252859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -144,6 +146,7 @@
 		DA47EB172859DB4C003A8ACF /* Explore more content with MusicKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Explore more content with MusicKit .swift"; sourceTree = "<group>"; };
 		DA47EB1B2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get more mileage out of your app with CarPlay .swift"; sourceTree = "<group>"; };
 		DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the most out of Xcode Cloud .swift"; sourceTree = "<group>"; };
+		DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get timely alerts from Bluetooth devices on watchOS .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -288,9 +291,10 @@
 				DA47EB0F2859D7A2003A8ACF /* Enhance */,
 				DA47EB0D2859D782003A8ACF /* What's New */,
 				DA47EB162859DB3E003A8ACF /* MusicKit */,
-				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EB1E2859E0B0003A8ACF /* Xcode Cloud */,
+				DA47EB222859E1B5003A8ACF /* watchOS */,
 				DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */,
+				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
 				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
@@ -355,6 +359,14 @@
 				DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */,
 			);
 			path = "Xcode Cloud";
+			sourceTree = "<group>";
+		};
+		DA47EB222859E1B5003A8ACF /* watchOS */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */,
+			);
+			path = watchOS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -546,6 +558,7 @@
 				DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EB182859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
+				DA47EB242859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EAFF2859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
 				DA47EAEA285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
@@ -586,6 +599,7 @@
 				DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EB192859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
+				DA47EB252859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
 				DA47EAEB285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
