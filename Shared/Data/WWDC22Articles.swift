@@ -214,9 +214,9 @@ enum WWDC22Articles: String, CaseIterable {
         case .ExploremorecontentwithMusicKit:
             return .init(item: ExploreMoreContentWithMusicKit())
         case .GetmoremileageoutofyourappwithCarPlay:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: GetMoreMileageOutOfYourAppWithCarPlay())
         case .GetthemostoutofXcodeCloud:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: GetTheMostOutOfXcodeCloud())
         case .GettimelyalertsfromBluetoothdevicesonwatchOS:
             return .init(item: HelloSwiftChartsArticle())
         case .GettoknowCreateMLComponents:
