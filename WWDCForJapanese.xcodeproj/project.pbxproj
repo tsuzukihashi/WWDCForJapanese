@@ -353,8 +353,6 @@
 				DA47EB262859E2E1003A8ACF /* CreateML */,
 				DA47EB1A2859DDD5003A8ACF /* CarPlay */,
 				DA47EB2E285A0616003A8ACF /* Charts */,
-				DA47EB0F2859D7A2003A8ACF /* Enhance */,
-				DA47EB0D2859D782003A8ACF /* What's New */,
 				DA47EB162859DB3E003A8ACF /* MusicKit */,
 				DA47EB1E2859E0B0003A8ACF /* Xcode Cloud */,
 				DA47EB222859E1B5003A8ACF /* watchOS */,
@@ -368,25 +366,10 @@
 				DA47EB5C285A191D003A8ACF /* AR */,
 				DA47EB60285A1DAB003A8ACF /* SwiftUI */,
 				DA47EB64285A300E003A8ACF /* Swift */,
-				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
-				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
-				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
-				DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */,
-				DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */,
-				DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */,
-				DA47EAE32857FADE003A8ACF /* Bring your driver to iPad with DriverKit.swift */,
-				DA47EADD28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift */,
-				DA47EADA28574A3F003A8ACF /* ComplicationsAndWidgetsReloadedArticle.swift */,
+				DA47EB74285A3E9B003A8ACF /* WidgetKit */,
+				DA47EB75285A3EC4003A8ACF /* VisionKit */,
 			);
 			path = WWDC22;
-			sourceTree = "<group>";
-		};
-		DA47EB0D2859D782003A8ACF /* What's New */ = {
-			isa = PBXGroup;
-			children = (
-				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
-			);
-			path = "What's New";
 			sourceTree = "<group>";
 		};
 		DA47EB0E2859D790003A8ACF /* Other */ = {
@@ -400,22 +383,17 @@
 				DA47EB52285A1417003A8ACF /* Meet passkeys .swift */,
 				DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
+				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
 				DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */,
 				DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */,
 				DA47EB3E285A0BFF003A8ACF /* Meet Focus filters .swift */,
+				DA47EB132859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift */,
+				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
+				DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */,
+				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
 				DA47EB41285A0D72003A8ACF /* Meet Swift Async Algorithms .swift */,
 			);
 			path = Other;
-			sourceTree = "<group>";
-		};
-		DA47EB0F2859D7A2003A8ACF /* Enhance */ = {
-			isa = PBXGroup;
-			children = (
-				DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */,
-				DA47EB132859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift */,
-				DA47EB1B2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift */,
-			);
-			path = Enhance;
 			sourceTree = "<group>";
 		};
 		DA47EB162859DB3E003A8ACF /* MusicKit */ = {
@@ -429,6 +407,7 @@
 		DA47EB1A2859DDD5003A8ACF /* CarPlay */ = {
 			isa = PBXGroup;
 			children = (
+				DA47EB1B2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift */,
 			);
 			path = CarPlay;
 			sourceTree = "<group>";
@@ -461,6 +440,8 @@
 		DA47EB2A2859E30B003A8ACF /* macOS */ = {
 			isa = PBXGroup;
 			children = (
+				DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */,
+				DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */,
 				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
 				DA47EB6B285A39F2003A8ACF /* What's new in AppKit .swift */,
 			);
@@ -511,6 +492,7 @@
 		DA47EB4E285A12FF003A8ACF /* iPadOS */ = {
 			isa = PBXGroup;
 			children = (
+				DA47EAE32857FADE003A8ACF /* Bring your driver to iPad with DriverKit.swift */,
 				DA47EB4F285A130A003A8ACF /* Meet desktop-class iPad .swift */,
 			);
 			path = iPadOS;
@@ -528,6 +510,8 @@
 		DA47EB5C285A191D003A8ACF /* AR */ = {
 			isa = PBXGroup;
 			children = (
+				DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */,
+				DA47EADD28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift */,
 				DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */,
 			);
 			path = AR;
@@ -547,6 +531,22 @@
 				DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */,
 			);
 			path = Swift;
+			sourceTree = "<group>";
+		};
+		DA47EB74285A3E9B003A8ACF /* WidgetKit */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EADA28574A3F003A8ACF /* ComplicationsAndWidgetsReloadedArticle.swift */,
+			);
+			path = WidgetKit;
+			sourceTree = "<group>";
+		};
+		DA47EB75285A3EC4003A8ACF /* VisionKit */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
+			);
+			path = VisionKit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
