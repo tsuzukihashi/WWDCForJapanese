@@ -120,6 +120,8 @@
 		DA47EB6A285A3916003A8ACF /* What's new in App Clips .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */; };
 		DA47EB6C285A39F2003A8ACF /* What's new in AppKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB6B285A39F2003A8ACF /* What's new in AppKit .swift */; };
 		DA47EB6D285A39F2003A8ACF /* What's new in AppKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB6B285A39F2003A8ACF /* What's new in AppKit .swift */; };
+		DA47EB6F285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */; };
+		DA47EB70285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -204,6 +206,7 @@
 		DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Visualize and optimize Swift concurrency .swift"; sourceTree = "<group>"; };
 		DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in App Clips .swift"; sourceTree = "<group>"; };
 		DA47EB6B285A39F2003A8ACF /* What's new in AppKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in AppKit .swift"; sourceTree = "<group>"; };
+		DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Create ML .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -446,6 +449,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */,
+				DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */,
 			);
 			path = CreateML;
 			sourceTree = "<group>";
@@ -740,6 +744,7 @@
 				DA47EB6C285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB3F285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
+				DA47EB6F285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */,
 				DA47EB5A285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */,
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
@@ -800,6 +805,7 @@
 				DA47EB6D285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB40285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
+				DA47EB70285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */,
 				DA47EB5B285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */,
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
