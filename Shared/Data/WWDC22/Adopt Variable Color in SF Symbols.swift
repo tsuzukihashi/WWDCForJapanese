@@ -1,6 +1,10 @@
 import Foundation
 
 struct AdoptVariableColorInSFSymbols: ArticleProtocol {
+    var imageUrl: URL {
+        URL(string: "https://devimages-cdn.apple.com/wwdc-services/images/124/6657/6657_wide_250x141_2x.jpg")!
+    }
+    
     var id: String {
         "Adopt Variable Color in SF Symbols"
     }

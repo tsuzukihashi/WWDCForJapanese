@@ -1,6 +1,10 @@
 import Foundation
 
 struct WhatsNewInSFSymbols4: ArticleProtocol {
+    var imageUrl: URL {
+        URL(string: "https://devimages-cdn.apple.com/wwdc-services/images/124/6656/6656_wide_250x141_2x.jpg")!
+    }
+
     var id: String {
         UUID().uuidString
     }

@@ -1,6 +1,10 @@
 import Foundation
 
 struct AddAccessibilityToYourUnityGames: ArticleProtocol {
+    var imageUrl: URL {
+        URL(string: "https://devimages-cdn.apple.com/wwdc-services/images/124/6650/6650_wide_250x141_2x.jpg")!
+    }
+    
     var id: String {
         "Add accessibility to your Unity games"
     }

@@ -6,6 +6,7 @@ protocol ArticleProtocol: Identifiable, Codable {
     var link: URL { get }
     var english: String { get }
     var japanese: String { get }
+    var imageUrl: URL { get }
 }
 
 struct Article: ArticleProtocol {
@@ -14,6 +15,7 @@ struct Article: ArticleProtocol {
     var link: URL
     var english: String
     var japanese: String
+    var imageUrl: URL
 
     init<T: ArticleProtocol>(item: T) {
         self.id = item.id
@@ -21,5 +23,6 @@ struct Article: ArticleProtocol {
         self.link = item.link
         self.english = item.english
         self.japanese = item.japanese
+        self.imageUrl = item.imageUrl
     }
 }

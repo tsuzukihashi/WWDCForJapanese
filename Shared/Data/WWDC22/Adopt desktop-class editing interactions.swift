@@ -1,6 +1,10 @@
 import Foundation
 
 struct AdoptDesktopClassEditingInteractions: ArticleProtocol {
+    var imageUrl: URL {
+        URL(string: "https://devimages-cdn.apple.com/wwdc-services/images/124/6565/6565_wide_250x141_2x.jpg")!
+    }
+    
     var id: String {
         UUID().uuidString
     }

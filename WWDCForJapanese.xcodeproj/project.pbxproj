@@ -57,6 +57,7 @@
 		DA47EAF428597914003A8ACF /* Bring your world into augmented reality .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */; };
 		DA47EAF628597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */; };
 		DA47EAF728597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */; };
+		DA47EAFA2859B52C003A8ACF /* NukeUI in Frameworks */ = {isa = PBXBuildFile; productRef = DA47EAF92859B52C003A8ACF /* NukeUI */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +118,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EAFA2859B52C003A8ACF /* NukeUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +281,9 @@
 			dependencies = (
 			);
 			name = "WWDCForJapanese (iOS)";
+			packageProductDependencies = (
+				DA47EAF92859B52C003A8ACF /* NukeUI */,
+			);
 			productName = "WWDCForJapanese (iOS)";
 			productReference = DA47EA832857035D003A8ACF /* WWDCForJapanese.app */;
 			productType = "com.apple.product-type.application";
@@ -371,6 +376,9 @@
 				Base,
 			);
 			mainGroup = DA47EA732857035C003A8ACF;
+			packageReferences = (
+				DA47EAF82859B52C003A8ACF /* XCRemoteSwiftPackageReference "NukeUI" */,
+			);
 			productRefGroup = DA47EA842857035D003A8ACF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -871,6 +879,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		DA47EAF82859B52C003A8ACF /* XCRemoteSwiftPackageReference "NukeUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kean/NukeUI";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		DA47EAF92859B52C003A8ACF /* NukeUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = DA47EAF82859B52C003A8ACF /* XCRemoteSwiftPackageReference "NukeUI" */;
+			productName = NukeUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		DA47EA792857035C003A8ACF /* WWDCForJapanese.xcdatamodeld */ = {

@@ -1,13 +1,10 @@
-//
-//  Hello Swift Charts.swift
-//  WWDCForJapanese
-//
-//  Created by ryo tsuzukihashi on 2022/06/13.
-//
-
 import Foundation
 
 struct HelloSwiftChartsArticle: ArticleProtocol {
+    var imageUrl: URL {
+        URL(string: "https://devimages-cdn.apple.com/wwdc-services/images/124/6633/6633_wide_250x141_2x.jpg")!
+    }
+
     var id: String {
         "Hello Swift Charts"
     }

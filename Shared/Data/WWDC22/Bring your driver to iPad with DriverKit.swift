@@ -1,6 +1,10 @@
 import Foundation
 
 struct BringYourDriverToiPadWithDriverKit: ArticleProtocol {
+    var imageUrl: URL {
+        URL(string: "https://devimages-cdn.apple.com/wwdc-services/images/124/6728/6728_wide_250x141_2x.jpg")!
+    }
+    
     var id: String {
         title
     }
