@@ -192,7 +192,7 @@ enum WWDC22Articles: CaseIterable {
         case .BuildyourfirstappinSwiftPlaygrounds:
             return .init(item: BuildYourFirstAppinSwiftPlaygrounds())
         case .CapturemachinereadablecodesandtextwithVisionKit:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: CaptureMachineReadableCodesAndTextwithVisionKit())
         case .ComplicationsandwidgetsReloaded:
             return .init(item: ComplicationsAndWidgetsReloadedArticle())
         case .Createamoreresponsivemediaapp:
