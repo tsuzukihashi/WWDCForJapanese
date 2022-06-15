@@ -242,7 +242,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .MeetWebPushforSafari:
             return .init(item: MeetWebPushForSafari())
         case .MeetdesktopclassiPad:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: MeetDesktopClassIPad())
         case .Meetpasskeys:
             return .init(item: HelloSwiftChartsArticle())
         case .PluginandplayAddAppleframeworkstoyourUnitygameprojects:

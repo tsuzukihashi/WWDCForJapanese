@@ -102,6 +102,8 @@
 		DA47EB4A285A114F003A8ACF /* Meet WeatherKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */; };
 		DA47EB4C285A11F7003A8ACF /* Meet Web Push for Safari .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */; };
 		DA47EB4D285A11F7003A8ACF /* Meet Web Push for Safari .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */; };
+		DA47EB50285A130A003A8ACF /* Meet desktop-class iPad .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB4F285A130A003A8ACF /* Meet desktop-class iPad .swift */; };
+		DA47EB51285A130A003A8ACF /* Meet desktop-class iPad .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB4F285A130A003A8ACF /* Meet desktop-class iPad .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -177,6 +179,7 @@
 		DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Swift Regex .swift"; sourceTree = "<group>"; };
 		DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet WeatherKit .swift"; sourceTree = "<group>"; };
 		DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Web Push for Safari .swift"; sourceTree = "<group>"; };
+		DA47EB4F285A130A003A8ACF /* Meet desktop-class iPad .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet desktop-class iPad .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -325,6 +328,7 @@
 				DA47EB162859DB3E003A8ACF /* MusicKit */,
 				DA47EB1E2859E0B0003A8ACF /* Xcode Cloud */,
 				DA47EB222859E1B5003A8ACF /* watchOS */,
+				DA47EB4E285A12FF003A8ACF /* iPadOS */,
 				DA47EB2A2859E30B003A8ACF /* macOS */,
 				DA47EB32285A0788003A8ACF /* ShortCut */,
 				DA47EB47285A1141003A8ACF /* Weather */,
@@ -463,6 +467,14 @@
 				DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */,
 			);
 			path = Weather;
+			sourceTree = "<group>";
+		};
+		DA47EB4E285A12FF003A8ACF /* iPadOS */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB4F285A130A003A8ACF /* Meet desktop-class iPad .swift */,
+			);
+			path = iPadOS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -634,6 +646,7 @@
 				DA47EB142859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA42857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
+				DA47EB50285A130A003A8ACF /* Meet desktop-class iPad .swift in Sources */,
 				DA47EACF28570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
 				DA47EB082859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */,
 				DA47EAD8285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
@@ -685,6 +698,7 @@
 				DA47EB152859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA52857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
+				DA47EB51285A130A003A8ACF /* Meet desktop-class iPad .swift in Sources */,
 				DA47EAD028570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
 				DA47EB092859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */,
 				DA47EAD9285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
