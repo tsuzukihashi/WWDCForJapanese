@@ -244,7 +244,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .MeetdesktopclassiPad:
             return .init(item: MeetDesktopClassIPad())
         case .Meetpasskeys:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: MeetPasskeys())
         case .PluginandplayAddAppleframeworkstoyourUnitygameprojects:
             return .init(item: HelloSwiftChartsArticle())
         case .ProgramMetalinCppwithmetalcpp:
