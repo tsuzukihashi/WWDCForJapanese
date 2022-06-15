@@ -250,7 +250,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .ProgramMetalinCppwithmetalcpp:
             return .init(item: ProgramMetalInCppWithMetalcpp())
         case .QualitiesofgreatARexperiences:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: QualitiesOfGreatARExperiences())
         case .TheSwiftUIcookbookfornavigation:
             return .init(item: HelloSwiftChartsArticle())
         case .VisualizeandoptimizeSwiftconcurrency:
