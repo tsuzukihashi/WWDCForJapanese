@@ -228,7 +228,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .ImplementAppShortcutswithAppIntents:
             return .init(item: ImplementAppShortcutsWithAppIntents())
         case .LoadresourcesfasterwithMetal3:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: LoadResourcesFasterWithMetal3())
         case .MeetAppleMapsServerAPIs:
             return .init(item: HelloSwiftChartsArticle())
         case .MeetFocusfilters:

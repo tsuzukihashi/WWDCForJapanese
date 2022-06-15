@@ -88,6 +88,8 @@
 		DA47EB2D285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */; };
 		DA47EB34285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */; };
 		DA47EB35285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */; };
+		DA47EB38285A08E2003A8ACF /* Load resources faster with Metal 3 .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */; };
+		DA47EB39285A08E2003A8ACF /* Load resources faster with Metal 3 .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -156,6 +158,7 @@
 		DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Create ML Components .swift"; sourceTree = "<group>"; };
 		DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Developer Mode .swift"; sourceTree = "<group>"; };
 		DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement App Shortcuts with App Intents .swift"; sourceTree = "<group>"; };
+		DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Load resources faster with Metal 3 .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -306,7 +309,7 @@
 				DA47EB222859E1B5003A8ACF /* watchOS */,
 				DA47EB2A2859E30B003A8ACF /* macOS */,
 				DA47EB32285A0788003A8ACF /* ShortCut */,
-				DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */,
+				DA47EB36285A08D7003A8ACF /* Metal */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
@@ -411,6 +414,15 @@
 				DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */,
 			);
 			path = ShortCut;
+			sourceTree = "<group>";
+		};
+		DA47EB36285A08D7003A8ACF /* Metal */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */,
+				DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */,
+			);
+			path = Metal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -577,6 +589,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EB38285A08E2003A8ACF /* Load resources faster with Metal 3 .swift in Sources */,
 				DA47EB34285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */,
 				DA47EB142859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
@@ -621,6 +634,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EB39285A08E2003A8ACF /* Load resources faster with Metal 3 .swift in Sources */,
 				DA47EB35285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */,
 				DA47EB152859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
