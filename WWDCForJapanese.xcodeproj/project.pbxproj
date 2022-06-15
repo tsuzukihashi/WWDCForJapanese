@@ -98,6 +98,8 @@
 		DA47EB43285A0D72003A8ACF /* Meet Swift Async Algorithms .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB41285A0D72003A8ACF /* Meet Swift Async Algorithms .swift */; };
 		DA47EB45285A0E63003A8ACF /* Meet Swift Regex .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */; };
 		DA47EB46285A0E63003A8ACF /* Meet Swift Regex .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */; };
+		DA47EB49285A114F003A8ACF /* Meet WeatherKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */; };
+		DA47EB4A285A114F003A8ACF /* Meet WeatherKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -171,6 +173,7 @@
 		DA47EB3E285A0BFF003A8ACF /* Meet Focus filters .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Focus filters .swift"; sourceTree = "<group>"; };
 		DA47EB41285A0D72003A8ACF /* Meet Swift Async Algorithms .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Swift Async Algorithms .swift"; sourceTree = "<group>"; };
 		DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Swift Regex .swift"; sourceTree = "<group>"; };
+		DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet WeatherKit .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -321,6 +324,7 @@
 				DA47EB222859E1B5003A8ACF /* watchOS */,
 				DA47EB2A2859E30B003A8ACF /* macOS */,
 				DA47EB32285A0788003A8ACF /* ShortCut */,
+				DA47EB47285A1141003A8ACF /* Weather */,
 				DA47EB36285A08D7003A8ACF /* Metal */,
 				DA47EB3A285A0A2B003A8ACF /* Map */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
@@ -447,6 +451,14 @@
 				DA47EB3B285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift */,
 			);
 			path = Map;
+			sourceTree = "<group>";
+		};
+		DA47EB47285A1141003A8ACF /* Weather */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */,
+			);
+			path = Weather;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -643,6 +655,7 @@
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
+				DA47EB49285A114F003A8ACF /* Meet WeatherKit .swift in Sources */,
 				DA47EB282859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
 				DA47EB182859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
 				DA47EB242859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
@@ -692,6 +705,7 @@
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
+				DA47EB4A285A114F003A8ACF /* Meet WeatherKit .swift in Sources */,
 				DA47EB292859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
 				DA47EB192859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
 				DA47EB252859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
