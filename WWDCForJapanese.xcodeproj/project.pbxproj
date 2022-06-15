@@ -126,6 +126,10 @@
 		DA47EB73285A3D23003A8ACF /* What's new in Nearby Interaction .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */; };
 		DA47EB78285A3F00003A8ACF /* What's new in Safari and WebKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB77285A3F00003A8ACF /* What's new in Safari and WebKit .swift */; };
 		DA47EB79285A3F00003A8ACF /* What's new in Safari and WebKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB77285A3F00003A8ACF /* What's new in Safari and WebKit .swift */; };
+		DA47EB7C285A4011003A8ACF /* What's new in SharePlay .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7B285A4011003A8ACF /* What's new in SharePlay .swift */; };
+		DA47EB7D285A4011003A8ACF /* What's new in SharePlay .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7B285A4011003A8ACF /* What's new in SharePlay .swift */; };
+		DA47EB7F285A40FE003A8ACF /* What's new in Swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */; };
+		DA47EB80285A40FE003A8ACF /* What's new in Swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -213,6 +217,8 @@
 		DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Create ML .swift"; sourceTree = "<group>"; };
 		DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Nearby Interaction .swift"; sourceTree = "<group>"; };
 		DA47EB77285A3F00003A8ACF /* What's new in Safari and WebKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Safari and WebKit .swift"; sourceTree = "<group>"; };
+		DA47EB7B285A4011003A8ACF /* What's new in SharePlay .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in SharePlay .swift"; sourceTree = "<group>"; };
+		DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Swift .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -370,6 +376,8 @@
 				DA47EB60285A1DAB003A8ACF /* SwiftUI */,
 				DA47EB64285A300E003A8ACF /* Swift */,
 				DA47EB74285A3E9B003A8ACF /* WidgetKit */,
+				DA47EB76285A3EF9003A8ACF /* WebKit */,
+				DA47EB7A285A4005003A8ACF /* SharePlay */,
 				DA47EB75285A3EC4003A8ACF /* VisionKit */,
 			);
 			path = WWDC22;
@@ -378,7 +386,6 @@
 		DA47EB0E2859D790003A8ACF /* Other */ = {
 			isa = PBXGroup;
 			children = (
-				DA47EB76285A3EF9003A8ACF /* WebKit */,
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
@@ -533,6 +540,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */,
+				DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */,
 			);
 			path = Swift;
 			sourceTree = "<group>";
@@ -559,6 +567,14 @@
 				DA47EB77285A3F00003A8ACF /* What's new in Safari and WebKit .swift */,
 			);
 			path = WebKit;
+			sourceTree = "<group>";
+		};
+		DA47EB7A285A4005003A8ACF /* SharePlay */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB7B285A4011003A8ACF /* What's new in SharePlay .swift */,
+			);
+			path = SharePlay;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -759,6 +775,8 @@
 				DA47EB42285A0D72003A8ACF /* Meet Swift Async Algorithms .swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6C285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
+				DA47EB7C285A4011003A8ACF /* What's new in SharePlay .swift in Sources */,
+				DA47EB7F285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB3F285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
 				DA47EB6F285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */,
@@ -822,6 +840,8 @@
 				DA47EB43285A0D72003A8ACF /* Meet Swift Async Algorithms .swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6D285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
+				DA47EB7D285A4011003A8ACF /* What's new in SharePlay .swift in Sources */,
+				DA47EB80285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB40285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
 				DA47EB70285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */,
