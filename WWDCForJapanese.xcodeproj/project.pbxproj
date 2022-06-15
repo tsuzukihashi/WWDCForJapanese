@@ -86,6 +86,8 @@
 		DA47EB292859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */; };
 		DA47EB2C285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */; };
 		DA47EB2D285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */; };
+		DA47EB34285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */; };
+		DA47EB35285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -153,6 +155,7 @@
 		DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get timely alerts from Bluetooth devices on watchOS .swift"; sourceTree = "<group>"; };
 		DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Create ML Components .swift"; sourceTree = "<group>"; };
 		DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Developer Mode .swift"; sourceTree = "<group>"; };
+		DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement App Shortcuts with App Intents .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -295,12 +298,14 @@
 				DA47EB0E2859D790003A8ACF /* Other */,
 				DA47EB262859E2E1003A8ACF /* CreateML */,
 				DA47EB1A2859DDD5003A8ACF /* CarPlay */,
+				DA47EB2E285A0616003A8ACF /* Charts */,
 				DA47EB0F2859D7A2003A8ACF /* Enhance */,
 				DA47EB0D2859D782003A8ACF /* What's New */,
 				DA47EB162859DB3E003A8ACF /* MusicKit */,
 				DA47EB1E2859E0B0003A8ACF /* Xcode Cloud */,
 				DA47EB222859E1B5003A8ACF /* watchOS */,
 				DA47EB2A2859E30B003A8ACF /* macOS */,
+				DA47EB32285A0788003A8ACF /* ShortCut */,
 				DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
@@ -312,7 +317,6 @@
 				DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */,
 				DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */,
 				DA47EAE32857FADE003A8ACF /* Bring your driver to iPad with DriverKit.swift */,
-				DA47EAE0285780D6003A8ACF /* HelloSwiftChartsArticle.swift */,
 				DA47EADD28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift */,
 				DA47EADA28574A3F003A8ACF /* ComplicationsAndWidgetsReloadedArticle.swift */,
 			);
@@ -391,6 +395,22 @@
 				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		DA47EB2E285A0616003A8ACF /* Charts */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EAE0285780D6003A8ACF /* HelloSwiftChartsArticle.swift */,
+			);
+			path = Charts;
+			sourceTree = "<group>";
+		};
+		DA47EB32285A0788003A8ACF /* ShortCut */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */,
+			);
+			path = ShortCut;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -557,6 +577,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EB34285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */,
 				DA47EB142859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA42857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
@@ -600,6 +621,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EB35285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */,
 				DA47EB152859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA52857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
