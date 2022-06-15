@@ -142,6 +142,8 @@
 		DA47EB90285A488F003A8ACF /* What's new with in-app purchase .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB8E285A488F003A8ACF /* What's new with in-app purchase .swift */; };
 		DA47EB92285A4A87003A8ACF /* What’s new in notarization for Mac apps .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB91285A4A87003A8ACF /* What’s new in notarization for Mac apps .swift */; };
 		DA47EB93285A4A87003A8ACF /* What’s new in notarization for Mac apps .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB91285A4A87003A8ACF /* What’s new in notarization for Mac apps .swift */; };
+		DA47EB96285A4B72003A8ACF /* Add Live Text interaction to your app .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB95285A4B72003A8ACF /* Add Live Text interaction to your app .swift */; };
+		DA47EB97285A4B72003A8ACF /* Add Live Text interaction to your app .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB95285A4B72003A8ACF /* Add Live Text interaction to your app .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -237,6 +239,7 @@
 		DA47EB8B285A4710003A8ACF /* What's new in Xcode .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Xcode .swift"; sourceTree = "<group>"; };
 		DA47EB8E285A488F003A8ACF /* What's new with in-app purchase .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new with in-app purchase .swift"; sourceTree = "<group>"; };
 		DA47EB91285A4A87003A8ACF /* What’s new in notarization for Mac apps .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What’s new in notarization for Mac apps .swift"; sourceTree = "<group>"; };
+		DA47EB95285A4B72003A8ACF /* Add Live Text interaction to your app .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Live Text interaction to your app .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -375,6 +378,7 @@
 		DA47EACA28570C45003A8ACF /* WWDC22 */ = {
 			isa = PBXGroup;
 			children = (
+				DA47EB94285A4B67003A8ACF /* LiveText */,
 				DA47EB84285A44A1003A8ACF /* UIKit */,
 				DA47EB262859E2E1003A8ACF /* CreateML */,
 				DA47EB1A2859DDD5003A8ACF /* CarPlay */,
@@ -609,6 +613,14 @@
 			path = UIKit;
 			sourceTree = "<group>";
 		};
+		DA47EB94285A4B67003A8ACF /* LiveText */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB95285A4B72003A8ACF /* Add Live Text interaction to your app .swift */,
+			);
+			path = LiveText;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -790,6 +802,7 @@
 				DA47EAD228571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EB78285A3F00003A8ACF /* What's new in Safari and WebKit .swift in Sources */,
 				DA47EAED285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
+				DA47EB96285A4B72003A8ACF /* Add Live Text interaction to your app .swift in Sources */,
 				DA47EAE728596F87003A8ACF /* Add accessibility to your Unity games.swift in Sources */,
 				DA47EAF328597914003A8ACF /* Bring your world into augmented reality .swift in Sources */,
 				DA47EB8F285A488F003A8ACF /* What's new with in-app purchase .swift in Sources */,
@@ -861,6 +874,7 @@
 				DA47EAD328571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EB79285A3F00003A8ACF /* What's new in Safari and WebKit .swift in Sources */,
 				DA47EAEE285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
+				DA47EB97285A4B72003A8ACF /* Add Live Text interaction to your app .swift in Sources */,
 				DA47EAE828596F87003A8ACF /* Add accessibility to your Unity games.swift in Sources */,
 				DA47EAF428597914003A8ACF /* Bring your world into augmented reality .swift in Sources */,
 				DA47EB90285A488F003A8ACF /* What's new with in-app purchase .swift in Sources */,
