@@ -234,7 +234,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .MeetFocusfilters:
             return .init(item: MeetFocusFilters())
         case .MeetSwiftAsyncAlgorithms:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: MeetSwiftAsyncAlgorithmsArticle())
         case .MeetSwiftRegex:
             return .init(item: HelloSwiftChartsArticle())
         case .MeetWeatherKit:
