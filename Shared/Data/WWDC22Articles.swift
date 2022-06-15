@@ -236,7 +236,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .MeetSwiftAsyncAlgorithms:
             return .init(item: MeetSwiftAsyncAlgorithmsArticle())
         case .MeetSwiftRegex:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: MeetSwiftRegexArticle())
         case .MeetWeatherKit:
             return .init(item: HelloSwiftChartsArticle())
         case .MeetWebPushforSafari:
