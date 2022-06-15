@@ -28,7 +28,9 @@ struct HomeView: View {
                     articles = WWDC22Articles.allCases
                 } else {
                     articles = articles.filter({
-                        $0.value.title.contains(searchQuery)
+                        $0.value.title.contains(searchQuery) ||
+                        $0.value.title.lowercased().contains(searchQuery) ||
+                        $0.value.title.uppercased().contains(searchQuery)
                     })
                 }
             }

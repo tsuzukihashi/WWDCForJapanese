@@ -62,6 +62,8 @@
 		DA47EAFD2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */; };
 		DA47EAFF2859B920003A8ACF /* Create a more responsive media app.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */; };
 		DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */; };
+		DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */; };
+		DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +119,7 @@
 		DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Build your first app in Swift Playgrounds .swift"; sourceTree = "<group>"; };
 		DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capture machine-readable codes and text with VisionKit .swift"; sourceTree = "<group>"; };
 		DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a more responsive media app.swift"; sourceTree = "<group>"; };
+		DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create macOS or Linux virtual machines.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -259,6 +262,7 @@
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
+				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
 				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
 				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
 				DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */,
@@ -454,6 +458,7 @@
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EAFF2859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
 				DA47EAEA285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
@@ -485,6 +490,7 @@
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
 				DA47EAEB285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
