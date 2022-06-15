@@ -130,6 +130,8 @@
 		DA47EB7D285A4011003A8ACF /* What's new in SharePlay .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7B285A4011003A8ACF /* What's new in SharePlay .swift */; };
 		DA47EB7F285A40FE003A8ACF /* What's new in Swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */; };
 		DA47EB80285A40FE003A8ACF /* What's new in Swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */; };
+		DA47EB82285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */; };
+		DA47EB83285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -219,6 +221,7 @@
 		DA47EB77285A3F00003A8ACF /* What's new in Safari and WebKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Safari and WebKit .swift"; sourceTree = "<group>"; };
 		DA47EB7B285A4011003A8ACF /* What's new in SharePlay .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in SharePlay .swift"; sourceTree = "<group>"; };
 		DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Swift .swift"; sourceTree = "<group>"; };
+		DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in SwiftUI .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -532,6 +535,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */,
+				DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */,
 			);
 			path = SwiftUI;
 			sourceTree = "<group>";
@@ -776,6 +780,7 @@
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6C285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
 				DA47EB7C285A4011003A8ACF /* What's new in SharePlay .swift in Sources */,
+				DA47EB82285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */,
 				DA47EB7F285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB3F285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
@@ -841,6 +846,7 @@
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6D285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
 				DA47EB7D285A4011003A8ACF /* What's new in SharePlay .swift in Sources */,
+				DA47EB83285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */,
 				DA47EB80285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB40285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,

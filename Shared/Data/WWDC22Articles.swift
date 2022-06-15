@@ -272,7 +272,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .WhatsnewinSwift:
             return .init(item: WhatsNewInSwift())
         case .WhatsnewinSwiftUI:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: WhatsNewInSwiftUI())
         case .WhatsnewinUIKit:
             return .init(item: HelloSwiftChartsArticle())
         case .WhatsnewinXcode:
