@@ -248,7 +248,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .PluginandplayAddAppleframeworkstoyourUnitygameprojects:
             return .init(item: PlugInAndPlayAddAppleFrameworksToYourUnityGameProjects())
         case .ProgramMetalinCppwithmetalcpp:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: ProgramMetalInCppWithMetalcpp())
         case .QualitiesofgreatARexperiences:
             return .init(item: HelloSwiftChartsArticle())
         case .TheSwiftUIcookbookfornavigation:

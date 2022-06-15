@@ -108,6 +108,8 @@
 		DA47EB54285A1417003A8ACF /* Meet passkeys .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB52285A1417003A8ACF /* Meet passkeys .swift */; };
 		DA47EB57285A1568003A8ACF /* Plug-in and play- Add Apple frameworks to your Unity game projects .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB56285A1568003A8ACF /* Plug-in and play- Add Apple frameworks to your Unity game projects .swift */; };
 		DA47EB58285A1568003A8ACF /* Plug-in and play- Add Apple frameworks to your Unity game projects .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB56285A1568003A8ACF /* Plug-in and play- Add Apple frameworks to your Unity game projects .swift */; };
+		DA47EB5A285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */; };
+		DA47EB5B285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -186,6 +188,7 @@
 		DA47EB4F285A130A003A8ACF /* Meet desktop-class iPad .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet desktop-class iPad .swift"; sourceTree = "<group>"; };
 		DA47EB52285A1417003A8ACF /* Meet passkeys .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet passkeys .swift"; sourceTree = "<group>"; };
 		DA47EB56285A1568003A8ACF /* Plug-in and play- Add Apple frameworks to your Unity game projects .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plug-in and play- Add Apple frameworks to your Unity game projects .swift"; sourceTree = "<group>"; };
+		DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Program Metal in C++ with metal-cpp .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -368,6 +371,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
+				DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */,
 				DA47EB52285A1417003A8ACF /* Meet passkeys .swift */,
 				DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */,
 				DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */,
@@ -688,6 +692,7 @@
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB3F285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
+				DA47EB5A285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */,
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
@@ -742,6 +747,7 @@
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB40285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
+				DA47EB5B285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */,
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
