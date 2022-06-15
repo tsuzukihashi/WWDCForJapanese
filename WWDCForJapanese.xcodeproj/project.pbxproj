@@ -84,6 +84,8 @@
 		DA47EB252859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */; };
 		DA47EB282859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */; };
 		DA47EB292859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */; };
+		DA47EB2C285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */; };
+		DA47EB2D285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -150,6 +152,7 @@
 		DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the most out of Xcode Cloud .swift"; sourceTree = "<group>"; };
 		DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get timely alerts from Bluetooth devices on watchOS .swift"; sourceTree = "<group>"; };
 		DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Create ML Components .swift"; sourceTree = "<group>"; };
+		DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Developer Mode .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -328,6 +331,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
+				DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -572,6 +576,7 @@
 				DA47EADE28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EB112859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
+				DA47EB2C285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
@@ -614,6 +619,7 @@
 				DA47EADF28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EB122859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
+				DA47EB2D285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,

@@ -222,7 +222,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .GettoknowCreateMLComponents:
             return .init(item: GetToKnowCreateMLComponents())
         case .GettoknowDeveloperMode:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: GettoKnowDeveloperMode())
         case .HelloSwiftCharts:
             return .init(item: HelloSwiftChartsArticle())
         case .ImplementAppShortcutswithAppIntents:
