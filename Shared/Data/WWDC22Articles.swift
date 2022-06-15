@@ -230,7 +230,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .LoadresourcesfasterwithMetal3:
             return .init(item: LoadResourcesFasterWithMetal3())
         case .MeetAppleMapsServerAPIs:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: MeetAppleMapsServerAPIsArticle())
         case .MeetFocusfilters:
             return .init(item: HelloSwiftChartsArticle())
         case .MeetSwiftAsyncAlgorithms:

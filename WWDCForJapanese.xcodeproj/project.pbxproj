@@ -90,6 +90,8 @@
 		DA47EB35285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */; };
 		DA47EB38285A08E2003A8ACF /* Load resources faster with Metal 3 .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */; };
 		DA47EB39285A08E2003A8ACF /* Load resources faster with Metal 3 .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */; };
+		DA47EB3C285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB3B285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift */; };
+		DA47EB3D285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB3B285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -159,6 +161,7 @@
 		DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Developer Mode .swift"; sourceTree = "<group>"; };
 		DA47EB33285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement App Shortcuts with App Intents .swift"; sourceTree = "<group>"; };
 		DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Load resources faster with Metal 3 .swift"; sourceTree = "<group>"; };
+		DA47EB3B285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Apple Maps Server APIs .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -310,6 +313,7 @@
 				DA47EB2A2859E30B003A8ACF /* macOS */,
 				DA47EB32285A0788003A8ACF /* ShortCut */,
 				DA47EB36285A08D7003A8ACF /* Metal */,
+				DA47EB3A285A0A2B003A8ACF /* Map */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
@@ -423,6 +427,14 @@
 				DA47EB37285A08E2003A8ACF /* Load resources faster with Metal 3 .swift */,
 			);
 			path = Metal;
+			sourceTree = "<group>";
+		};
+		DA47EB3A285A0A2B003A8ACF /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB3B285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift */,
+			);
+			path = Map;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -624,6 +636,7 @@
 				DA47EAEA285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
 				DA47EB1C2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift in Sources */,
 				DA47EAF628597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */,
+				DA47EB3C285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift in Sources */,
 				DA47EAA82857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC1285703C2003A8ACF /* ArrayExt.swift in Sources */,
 				DA47EAFC2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift in Sources */,
@@ -669,6 +682,7 @@
 				DA47EAEB285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
 				DA47EB1D2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift in Sources */,
 				DA47EAF728597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */,
+				DA47EB3D285A0A33003A8ACF /* Meet Apple Maps Server APIs .swift in Sources */,
 				DA47EAA92857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC2285703C2003A8ACF /* ArrayExt.swift in Sources */,
 				DA47EAFD2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift in Sources */,
