@@ -280,9 +280,9 @@ enum WWDC22Articles: String, CaseIterable {
         case .WhatsnewinmanagingAppledevices:
             return .init(item: WhatsNewInManagingAppleDevices())
         case .Whatsnewwithinapppurchase:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: WhatsNewWithInAppPurchase())
         case .WhatsnewinnotarizationforMacapps:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: WhatsNewInNotarizationForMacApps())
         case .AddLiveTextinteractiontoyourapp:
             return .init(item: HelloSwiftChartsArticle())
         case .AddSharedwithYoutoyourapp:
