@@ -208,7 +208,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .DiveintoAppIntents:
             return .init(item: DiveIntoAppIntents())
         case .EnhancecollaborationexperienceswithMessages:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: EnhanceCollaborationExperiencesWithMessages())
         case .EnhancevoicecommunicationwithPushtoTalk:
             return .init(item: HelloSwiftChartsArticle())
         case .ExploremorecontentwithMusicKit:

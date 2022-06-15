@@ -70,6 +70,8 @@
 		DA47EB092859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */; };
 		DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */; };
 		DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */; };
+		DA47EB112859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */; };
+		DA47EB122859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -129,6 +131,7 @@
 		DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Deliver reliable streams with HLS Content Steering .swift"; sourceTree = "<group>"; };
 		DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverMetal3Article.swift; sourceTree = "<group>"; };
 		DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dive into App Intents .swift"; sourceTree = "<group>"; };
+		DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Enhance collaboration experiences with Messages.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -268,13 +271,13 @@
 		DA47EACA28570C45003A8ACF /* WWDC22 */ = {
 			isa = PBXGroup;
 			children = (
-				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
+				DA47EB0E2859D790003A8ACF /* Create */,
+				DA47EB0F2859D7A2003A8ACF /* Enhance */,
+				DA47EB0D2859D782003A8ACF /* What's New */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */,
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
-				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
-				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
 				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
 				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
 				DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */,
@@ -287,6 +290,31 @@
 				DA47EADA28574A3F003A8ACF /* ComplicationsAndWidgetsReloadedArticle.swift */,
 			);
 			path = WWDC22;
+			sourceTree = "<group>";
+		};
+		DA47EB0D2859D782003A8ACF /* What's New */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
+			);
+			path = "What's New";
+			sourceTree = "<group>";
+		};
+		DA47EB0E2859D790003A8ACF /* Create */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
+				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
+			);
+			path = Create;
+			sourceTree = "<group>";
+		};
+		DA47EB0F2859D7A2003A8ACF /* Enhance */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */,
+			);
+			path = Enhance;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -469,6 +497,7 @@
 				DA47EAC728570701003A8ACF /* ItemDetailView.swift in Sources */,
 				DA47EADE28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
+				DA47EB112859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
@@ -504,6 +533,7 @@
 				DA47EAC828570701003A8ACF /* ItemDetailView.swift in Sources */,
 				DA47EADF28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
+				DA47EB122859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
