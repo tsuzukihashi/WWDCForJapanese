@@ -204,9 +204,9 @@ enum WWDC22Articles: String, CaseIterable {
         case .DeliverreliablestreamswithHLSContentSteering:
             return .init(item: DeliverReliableStreamsWithHLSContentSteering())
         case .DiscoverMetal3:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: DiscoverMetal3Article())
         case .DiveintoAppIntents:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: DiveIntoAppIntents())
         case .EnhancecollaborationexperienceswithMessages:
             return .init(item: HelloSwiftChartsArticle())
         case .EnhancevoicecommunicationwithPushtoTalk:

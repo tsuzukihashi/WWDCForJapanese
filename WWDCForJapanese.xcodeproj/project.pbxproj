@@ -66,6 +66,10 @@
 		DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */; };
 		DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */; };
 		DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */; };
+		DA47EB082859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */; };
+		DA47EB092859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */; };
+		DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */; };
+		DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -123,6 +127,8 @@
 		DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a more responsive media app.swift"; sourceTree = "<group>"; };
 		DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create macOS or Linux virtual machines.swift"; sourceTree = "<group>"; };
 		DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Deliver reliable streams with HLS Content Steering .swift"; sourceTree = "<group>"; };
+		DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverMetal3Article.swift; sourceTree = "<group>"; };
+		DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dive into App Intents .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +270,8 @@
 			children = (
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
+				DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */,
+				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
 				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
@@ -448,6 +456,7 @@
 				DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA42857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
 				DA47EACF28570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
+				DA47EB082859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */,
 				DA47EAD8285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
 				DA47EAD228571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EAED285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
@@ -463,6 +472,7 @@
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
+				DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EAFF2859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
@@ -481,6 +491,7 @@
 				DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA52857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
 				DA47EAD028570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
+				DA47EB092859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */,
 				DA47EAD9285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
 				DA47EAD328571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EAEE285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
@@ -496,6 +507,7 @@
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
+				DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
