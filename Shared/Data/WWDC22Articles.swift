@@ -232,7 +232,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .MeetAppleMapsServerAPIs:
             return .init(item: MeetAppleMapsServerAPIsArticle())
         case .MeetFocusfilters:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: MeetFocusFilters())
         case .MeetSwiftAsyncAlgorithms:
             return .init(item: HelloSwiftChartsArticle())
         case .MeetSwiftRegex:
