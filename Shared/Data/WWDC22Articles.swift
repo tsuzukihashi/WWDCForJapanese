@@ -182,7 +182,7 @@ enum WWDC22Articles: CaseIterable {
         case .AdoptVariableColorinSFSymbols:
             return .init(item: AdoptVariableColorInSFSymbols())
         case .Adoptdesktopclasseditinginteractions:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: AdoptDesktopClassEditingInteractions())
         case .BringContinuityCameratoyourmacOSapp:
             return .init(item: HelloSwiftChartsArticle())
         case .BringyourdrivertoiPadwithDriverKit:
