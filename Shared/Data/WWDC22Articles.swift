@@ -256,7 +256,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .VisualizeandoptimizeSwiftconcurrency:
             return .init(item: VisualizeAndOptimizeSwiftConcurrency())
         case .WhatsnewinAppClips:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: WhatsNewInAppClips())
         case .WhatsnewinAppKit:
             return .init(item: HelloSwiftChartsArticle())
         case .WhatsnewinCreateML:

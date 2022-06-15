@@ -116,6 +116,8 @@
 		DA47EB63285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */; };
 		DA47EB66285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */; };
 		DA47EB67285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */; };
+		DA47EB69285A3916003A8ACF /* What's new in App Clips .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */; };
+		DA47EB6A285A3916003A8ACF /* What's new in App Clips .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -198,6 +200,7 @@
 		DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Qualities of great AR experiences .swift"; sourceTree = "<group>"; };
 		DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The SwiftUI cookbook for navigation.swift"; sourceTree = "<group>"; };
 		DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Visualize and optimize Swift concurrency .swift"; sourceTree = "<group>"; };
+		DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in App Clips .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -382,6 +385,7 @@
 			children = (
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
+				DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */,
 				DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */,
 				DA47EB52285A1417003A8ACF /* Meet passkeys .swift */,
 				DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */,
@@ -701,6 +705,7 @@
 				DA47EB34285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */,
 				DA47EB142859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EB53285A1417003A8ACF /* Meet passkeys .swift in Sources */,
+				DA47EB69285A3916003A8ACF /* What's new in App Clips .swift in Sources */,
 				DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EB5E285A1924003A8ACF /* Qualities of great AR experiences .swift in Sources */,
 				DA47EAA42857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
@@ -759,6 +764,7 @@
 				DA47EB35285A079A003A8ACF /* Implement App Shortcuts with App Intents .swift in Sources */,
 				DA47EB152859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EB54285A1417003A8ACF /* Meet passkeys .swift in Sources */,
+				DA47EB6A285A3916003A8ACF /* What's new in App Clips .swift in Sources */,
 				DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EB5F285A1924003A8ACF /* Qualities of great AR experiences .swift in Sources */,
 				DA47EAA52857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
