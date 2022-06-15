@@ -114,6 +114,8 @@
 		DA47EB5F285A1924003A8ACF /* Qualities of great AR experiences .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */; };
 		DA47EB62285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */; };
 		DA47EB63285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */; };
+		DA47EB66285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */; };
+		DA47EB67285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -195,6 +197,7 @@
 		DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Program Metal in C++ with metal-cpp .swift"; sourceTree = "<group>"; };
 		DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Qualities of great AR experiences .swift"; sourceTree = "<group>"; };
 		DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The SwiftUI cookbook for navigation.swift"; sourceTree = "<group>"; };
+		DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Visualize and optimize Swift concurrency .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -352,6 +355,7 @@
 				DA47EB55285A154F003A8ACF /* Unity */,
 				DA47EB5C285A191D003A8ACF /* AR */,
 				DA47EB60285A1DAB003A8ACF /* SwiftUI */,
+				DA47EB64285A300E003A8ACF /* Swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
 				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
 				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
@@ -519,6 +523,14 @@
 				DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */,
 			);
 			path = SwiftUI;
+			sourceTree = "<group>";
+		};
+		DA47EB64285A300E003A8ACF /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB65285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift */,
+			);
+			path = Swift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -697,6 +709,7 @@
 				DA47EB082859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */,
 				DA47EAD8285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
 				DA47EB202859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift in Sources */,
+				DA47EB66285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift in Sources */,
 				DA47EAD228571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EAED285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
 				DA47EAE728596F87003A8ACF /* Add accessibility to your Unity games.swift in Sources */,
@@ -754,6 +767,7 @@
 				DA47EB092859D460003A8ACF /* DiscoverMetal3Article.swift in Sources */,
 				DA47EAD9285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
 				DA47EB212859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift in Sources */,
+				DA47EB67285A3017003A8ACF /* Visualize and optimize Swift concurrency .swift in Sources */,
 				DA47EAD328571D61003A8ACF /* HomeView.swift in Sources */,
 				DA47EAEE285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
 				DA47EAE828596F87003A8ACF /* Add accessibility to your Unity games.swift in Sources */,

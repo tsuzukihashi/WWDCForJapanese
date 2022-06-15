@@ -254,7 +254,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .TheSwiftUIcookbookfornavigation:
             return .init(item: TheSwiftUICookbookForNavigation())
         case .VisualizeandoptimizeSwiftconcurrency:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: VisualizeAndOptimizeSwiftConcurrency())
         case .WhatsnewinAppClips:
             return .init(item: HelloSwiftChartsArticle())
         case .WhatsnewinAppKit:
