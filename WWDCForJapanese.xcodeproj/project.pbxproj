@@ -132,6 +132,8 @@
 		DA47EB80285A40FE003A8ACF /* What's new in Swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */; };
 		DA47EB82285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */; };
 		DA47EB83285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */; };
+		DA47EB86285A44BD003A8ACF /* What's new in UIKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB85285A44BD003A8ACF /* What's new in UIKit .swift */; };
+		DA47EB87285A44BD003A8ACF /* What's new in UIKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB85285A44BD003A8ACF /* What's new in UIKit .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -222,6 +224,7 @@
 		DA47EB7B285A4011003A8ACF /* What's new in SharePlay .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in SharePlay .swift"; sourceTree = "<group>"; };
 		DA47EB7E285A40FE003A8ACF /* What's new in Swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Swift .swift"; sourceTree = "<group>"; };
 		DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in SwiftUI .swift"; sourceTree = "<group>"; };
+		DA47EB85285A44BD003A8ACF /* What's new in UIKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in UIKit .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -274,7 +277,6 @@
 			children = (
 				DA47EABF285703B7003A8ACF /* Extension */,
 				DA47EAC928570C37003A8ACF /* Data */,
-				DA47EAC5285706F5003A8ACF /* Views */,
 				DA47EAC3285703D5003A8ACF /* Utils */,
 				DA47EA7B2857035C003A8ACF /* WWDCForJapaneseApp.swift */,
 				DA47EA7E2857035D003A8ACF /* Assets.xcassets */,
@@ -361,7 +363,7 @@
 		DA47EACA28570C45003A8ACF /* WWDC22 */ = {
 			isa = PBXGroup;
 			children = (
-				DA47EB0E2859D790003A8ACF /* Other */,
+				DA47EB84285A44A1003A8ACF /* UIKit */,
 				DA47EB262859E2E1003A8ACF /* CreateML */,
 				DA47EB1A2859DDD5003A8ACF /* CarPlay */,
 				DA47EB2E285A0616003A8ACF /* Charts */,
@@ -381,6 +383,8 @@
 				DA47EB74285A3E9B003A8ACF /* WidgetKit */,
 				DA47EB76285A3EF9003A8ACF /* WebKit */,
 				DA47EB7A285A4005003A8ACF /* SharePlay */,
+				DA47EB0E2859D790003A8ACF /* Other */,
+				DA47EAC5285706F5003A8ACF /* Views */,
 				DA47EB75285A3EC4003A8ACF /* VisionKit */,
 			);
 			path = WWDC22;
@@ -581,6 +585,14 @@
 			path = SharePlay;
 			sourceTree = "<group>";
 		};
+		DA47EB84285A44A1003A8ACF /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB85285A44BD003A8ACF /* What's new in UIKit .swift */,
+			);
+			path = UIKit;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -779,6 +791,7 @@
 				DA47EB42285A0D72003A8ACF /* Meet Swift Async Algorithms .swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6C285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
+				DA47EB86285A44BD003A8ACF /* What's new in UIKit .swift in Sources */,
 				DA47EB7C285A4011003A8ACF /* What's new in SharePlay .swift in Sources */,
 				DA47EB82285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */,
 				DA47EB7F285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
@@ -845,6 +858,7 @@
 				DA47EB43285A0D72003A8ACF /* Meet Swift Async Algorithms .swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6D285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
+				DA47EB87285A44BD003A8ACF /* What's new in UIKit .swift in Sources */,
 				DA47EB7D285A4011003A8ACF /* What's new in SharePlay .swift in Sources */,
 				DA47EB83285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */,
 				DA47EB80285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
