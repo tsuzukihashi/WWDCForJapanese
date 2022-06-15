@@ -136,6 +136,8 @@
 		DA47EB87285A44BD003A8ACF /* What's new in UIKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB85285A44BD003A8ACF /* What's new in UIKit .swift */; };
 		DA47EB89285A45A9003A8ACF /* What's new in managing Apple devices .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB88285A45A9003A8ACF /* What's new in managing Apple devices .swift */; };
 		DA47EB8A285A45A9003A8ACF /* What's new in managing Apple devices .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB88285A45A9003A8ACF /* What's new in managing Apple devices .swift */; };
+		DA47EB8C285A4710003A8ACF /* What's new in Xcode .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB8B285A4710003A8ACF /* What's new in Xcode .swift */; };
+		DA47EB8D285A4710003A8ACF /* What's new in Xcode .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB8B285A4710003A8ACF /* What's new in Xcode .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -228,6 +230,7 @@
 		DA47EB81285A4342003A8ACF /* What's new in SwiftUI .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in SwiftUI .swift"; sourceTree = "<group>"; };
 		DA47EB85285A44BD003A8ACF /* What's new in UIKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in UIKit .swift"; sourceTree = "<group>"; };
 		DA47EB88285A45A9003A8ACF /* What's new in managing Apple devices .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in managing Apple devices .swift"; sourceTree = "<group>"; };
+		DA47EB8B285A4710003A8ACF /* What's new in Xcode .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Xcode .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -371,7 +374,7 @@
 				DA47EB1A2859DDD5003A8ACF /* CarPlay */,
 				DA47EB2E285A0616003A8ACF /* Charts */,
 				DA47EB162859DB3E003A8ACF /* MusicKit */,
-				DA47EB1E2859E0B0003A8ACF /* Xcode Cloud */,
+				DA47EB1E2859E0B0003A8ACF /* Xcode */,
 				DA47EB222859E1B5003A8ACF /* watchOS */,
 				DA47EB4E285A12FF003A8ACF /* iPadOS */,
 				DA47EB2A2859E30B003A8ACF /* macOS */,
@@ -434,12 +437,13 @@
 			path = CarPlay;
 			sourceTree = "<group>";
 		};
-		DA47EB1E2859E0B0003A8ACF /* Xcode Cloud */ = {
+		DA47EB1E2859E0B0003A8ACF /* Xcode */ = {
 			isa = PBXGroup;
 			children = (
 				DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */,
+				DA47EB8B285A4710003A8ACF /* What's new in Xcode .swift */,
 			);
-			path = "Xcode Cloud";
+			path = Xcode;
 			sourceTree = "<group>";
 		};
 		DA47EB222859E1B5003A8ACF /* watchOS */ = {
@@ -792,6 +796,7 @@
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EB112859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
 				DA47EB2C285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */,
+				DA47EB8C285A4710003A8ACF /* What's new in Xcode .swift in Sources */,
 				DA47EB42285A0D72003A8ACF /* Meet Swift Async Algorithms .swift in Sources */,
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6C285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
@@ -860,6 +865,7 @@
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EB122859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
 				DA47EB2D285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */,
+				DA47EB8D285A4710003A8ACF /* What's new in Xcode .swift in Sources */,
 				DA47EB43285A0D72003A8ACF /* Meet Swift Async Algorithms .swift in Sources */,
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EB6D285A39F2003A8ACF /* What's new in AppKit .swift in Sources */,
