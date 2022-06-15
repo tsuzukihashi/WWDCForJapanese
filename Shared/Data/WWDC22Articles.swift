@@ -196,7 +196,7 @@ enum WWDC22Articles: CaseIterable {
         case .ComplicationsandwidgetsReloaded:
             return .init(item: ComplicationsAndWidgetsReloadedArticle())
         case .Createamoreresponsivemediaapp:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: CreateAMoreResponsiveMediaApp())
         case .CreatemacOSorLinuxvirtualmachines:
             return .init(item: HelloSwiftChartsArticle())
         case .Createparametric3DroomscanswithRoomPlan:

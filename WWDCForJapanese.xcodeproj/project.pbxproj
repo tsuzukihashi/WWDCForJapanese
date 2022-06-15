@@ -60,6 +60,8 @@
 		DA47EAFA2859B52C003A8ACF /* NukeUI in Frameworks */ = {isa = PBXBuildFile; productRef = DA47EAF92859B52C003A8ACF /* NukeUI */; };
 		DA47EAFC2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */; };
 		DA47EAFD2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */; };
+		DA47EAFF2859B920003A8ACF /* Create a more responsive media app.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */; };
+		DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -114,6 +116,7 @@
 		DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bring your world into augmented reality .swift"; sourceTree = "<group>"; };
 		DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Build your first app in Swift Playgrounds .swift"; sourceTree = "<group>"; };
 		DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capture machine-readable codes and text with VisionKit .swift"; sourceTree = "<group>"; };
+		DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a more responsive media app.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -255,6 +258,7 @@
 			children = (
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
+				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
 				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
 				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
 				DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */,
@@ -451,6 +455,7 @@
 				DA47EABD28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
+				DA47EAFF2859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
 				DA47EAEA285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
 				DA47EAF628597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */,
 				DA47EAA82857035D003A8ACF /* RootView.swift in Sources */,
@@ -481,6 +486,7 @@
 				DA47EABE28570399003A8ACF /* WWDCFormatter.swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
+				DA47EB002859B920003A8ACF /* Create a more responsive media app.swift in Sources */,
 				DA47EAEB285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
 				DA47EAF728597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */,
 				DA47EAA92857035D003A8ACF /* RootView.swift in Sources */,
