@@ -1,6 +1,6 @@
 import Foundation
 
-struct ComplicationsAndWidgetsReloaded: ArticleProtocol {
+struct ComplicationsAndWidgetsReloadedArticle: ArticleProtocol {
     var id: String {
         UUID().uuidString
     }

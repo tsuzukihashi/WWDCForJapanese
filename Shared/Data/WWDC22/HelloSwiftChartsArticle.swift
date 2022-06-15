@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct HelloSwiftCharts: ArticleProtocol {
+struct HelloSwiftChartsArticle: ArticleProtocol {
     var id: String {
         "Hello Swift Charts"
     }

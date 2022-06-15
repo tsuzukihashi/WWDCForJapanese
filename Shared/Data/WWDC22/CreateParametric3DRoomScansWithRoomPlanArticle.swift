@@ -1,6 +1,6 @@
 import Foundation
 
-struct CreateParametric3DRoomScansWithRoomPlan: ArticleProtocol {
+struct CreateParametric3DRoomScansWithRoomPlanArticle: ArticleProtocol {
     var id: String {
         UUID().uuidString
     }

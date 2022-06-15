@@ -34,6 +34,6 @@ struct ItemDetailView: View {
 
 struct ItemDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        ItemDetailView(article: WWDC22Articles.whatsNewInSFSymbols4.value)
+        ItemDetailView(article: WWDC22Articles.HelloSwiftCharts.value)
     }
 }

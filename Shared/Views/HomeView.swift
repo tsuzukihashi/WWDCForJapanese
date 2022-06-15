@@ -30,6 +30,11 @@ struct HomeView: View {
                 }
             })
             .navigationTitle("Home")
+            .toolbar {
+                ToolbarItem(placement: .navigationBarTrailing) {
+                    Text(String(WWDC22Articles.allCases.count))
+                }
+            }
         }
         .navigationViewStyle(.stack)
     }
