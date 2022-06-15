@@ -252,7 +252,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .QualitiesofgreatARexperiences:
             return .init(item: QualitiesOfGreatARExperiences())
         case .TheSwiftUIcookbookfornavigation:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: TheSwiftUICookbookForNavigation())
         case .VisualizeandoptimizeSwiftconcurrency:
             return .init(item: HelloSwiftChartsArticle())
         case .WhatsnewinAppClips:

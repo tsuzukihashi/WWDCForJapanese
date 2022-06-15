@@ -112,6 +112,8 @@
 		DA47EB5B285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */; };
 		DA47EB5E285A1924003A8ACF /* Qualities of great AR experiences .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */; };
 		DA47EB5F285A1924003A8ACF /* Qualities of great AR experiences .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */; };
+		DA47EB62285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */; };
+		DA47EB63285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -192,6 +194,7 @@
 		DA47EB56285A1568003A8ACF /* Plug-in and play- Add Apple frameworks to your Unity game projects .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plug-in and play- Add Apple frameworks to your Unity game projects .swift"; sourceTree = "<group>"; };
 		DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Program Metal in C++ with metal-cpp .swift"; sourceTree = "<group>"; };
 		DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Qualities of great AR experiences .swift"; sourceTree = "<group>"; };
+		DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The SwiftUI cookbook for navigation.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -347,8 +350,8 @@
 				DA47EB36285A08D7003A8ACF /* Metal */,
 				DA47EB3A285A0A2B003A8ACF /* Map */,
 				DA47EB55285A154F003A8ACF /* Unity */,
-				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EB5C285A191D003A8ACF /* AR */,
+				DA47EB60285A1DAB003A8ACF /* SwiftUI */,
 				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
 				DA47EAFB2859B6CD003A8ACF /* Capture machine-readable codes and text with VisionKit .swift */,
 				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
@@ -373,6 +376,7 @@
 		DA47EB0E2859D790003A8ACF /* Other */ = {
 			isa = PBXGroup;
 			children = (
+				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
 				DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */,
 				DA47EB52285A1417003A8ACF /* Meet passkeys .swift */,
@@ -507,6 +511,14 @@
 				DA47EB5D285A1924003A8ACF /* Qualities of great AR experiences .swift */,
 			);
 			path = AR;
+			sourceTree = "<group>";
+		};
+		DA47EB60285A1DAB003A8ACF /* SwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB61285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift */,
+			);
+			path = SwiftUI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -709,6 +721,7 @@
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
+				DA47EB62285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */,
 				DA47EB49285A114F003A8ACF /* Meet WeatherKit .swift in Sources */,
 				DA47EB282859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
 				DA47EB182859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
@@ -765,6 +778,7 @@
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
+				DA47EB63285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */,
 				DA47EB4A285A114F003A8ACF /* Meet WeatherKit .swift in Sources */,
 				DA47EB292859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
 				DA47EB192859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
