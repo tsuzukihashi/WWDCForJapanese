@@ -122,6 +122,8 @@
 		DA47EB6D285A39F2003A8ACF /* What's new in AppKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB6B285A39F2003A8ACF /* What's new in AppKit .swift */; };
 		DA47EB6F285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */; };
 		DA47EB70285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */; };
+		DA47EB72285A3D23003A8ACF /* What's new in Nearby Interaction .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */; };
+		DA47EB73285A3D23003A8ACF /* What's new in Nearby Interaction .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -207,6 +209,7 @@
 		DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in App Clips .swift"; sourceTree = "<group>"; };
 		DA47EB6B285A39F2003A8ACF /* What's new in AppKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in AppKit .swift"; sourceTree = "<group>"; };
 		DA47EB6E285A3B8A003A8ACF /* What's new in Create ML .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Create ML .swift"; sourceTree = "<group>"; };
+		DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What's new in Nearby Interaction .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -390,6 +393,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
+				DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
 				DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */,
 				DA47EB59285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift */,
@@ -752,6 +756,7 @@
 				DA47EB62285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */,
 				DA47EB49285A114F003A8ACF /* Meet WeatherKit .swift in Sources */,
 				DA47EB282859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
+				DA47EB72285A3D23003A8ACF /* What's new in Nearby Interaction .swift in Sources */,
 				DA47EB182859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
 				DA47EB242859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
@@ -813,6 +818,7 @@
 				DA47EB63285A1DBB003A8ACF /* The SwiftUI cookbook for navigation.swift in Sources */,
 				DA47EB4A285A114F003A8ACF /* Meet WeatherKit .swift in Sources */,
 				DA47EB292859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
+				DA47EB73285A3D23003A8ACF /* What's new in Nearby Interaction .swift in Sources */,
 				DA47EB192859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
 				DA47EB252859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
