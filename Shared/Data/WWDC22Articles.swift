@@ -212,7 +212,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .EnhancevoicecommunicationwithPushtoTalk:
             return .init(item: EnhanceVoiceCommunicationWithPushToTalk())
         case .ExploremorecontentwithMusicKit:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: ExploreMoreContentWithMusicKit())
         case .GetmoremileageoutofyourappwithCarPlay:
             return .init(item: HelloSwiftChartsArticle())
         case .GetthemostoutofXcodeCloud:
