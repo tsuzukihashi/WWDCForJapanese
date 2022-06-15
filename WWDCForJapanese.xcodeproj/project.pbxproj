@@ -49,8 +49,12 @@
 		DA47EAE828596F87003A8ACF /* Add accessibility to your Unity games.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAE628596F87003A8ACF /* Add accessibility to your Unity games.swift */; };
 		DA47EAEA285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */; };
 		DA47EAEB285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */; };
-		DA47EAED285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAEC285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift */; };
-		DA47EAEE285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAEC285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift */; };
+		DA47EAED285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */; };
+		DA47EAEE285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */; };
+		DA47EAF0285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */; };
+		DA47EAF1285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */; };
+		DA47EAF328597914003A8ACF /* Bring your world into augmented reality .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */; };
+		DA47EAF428597914003A8ACF /* Bring your world into augmented reality .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,7 +104,9 @@
 		DA47EAE32857FADE003A8ACF /* Bring your driver to iPad with DriverKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bring your driver to iPad with DriverKit.swift"; sourceTree = "<group>"; };
 		DA47EAE628596F87003A8ACF /* Add accessibility to your Unity games.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add accessibility to your Unity games.swift"; sourceTree = "<group>"; };
 		DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adopt Variable Color in SF Symbols.swift"; sourceTree = "<group>"; };
-		DA47EAEC285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Adopt desktop-class editing interactions.swift"; sourceTree = "<group>"; };
+		DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adopt desktop-class editing interactions.swift"; sourceTree = "<group>"; };
+		DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bring Continuity Camera to your macOS app .swift"; sourceTree = "<group>"; };
+		DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bring your world into augmented reality .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,8 +247,10 @@
 			children = (
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
 				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
-				DA47EAEC285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift */,
+				DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */,
 				DA47EAE628596F87003A8ACF /* Add accessibility to your Unity games.swift */,
+				DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */,
+				DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */,
 				DA47EAE32857FADE003A8ACF /* Bring your driver to iPad with DriverKit.swift */,
 				DA47EAE0285780D6003A8ACF /* HelloSwiftChartsArticle.swift */,
 				DA47EADD28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift */,
@@ -414,11 +422,13 @@
 				DA47EACF28570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
 				DA47EAD8285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
 				DA47EAD228571D61003A8ACF /* HomeView.swift in Sources */,
-				DA47EAED285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift in Sources */,
+				DA47EAED285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
 				DA47EAE728596F87003A8ACF /* Add accessibility to your Unity games.swift in Sources */,
+				DA47EAF328597914003A8ACF /* Bring your world into augmented reality .swift in Sources */,
 				DA47EAAA2857035D003A8ACF /* Persistence.swift in Sources */,
 				DA47EADB28574A3F003A8ACF /* ComplicationsAndWidgetsReloadedArticle.swift in Sources */,
 				DA47EAE42857FADE003A8ACF /* Bring your driver to iPad with DriverKit.swift in Sources */,
+				DA47EAF0285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift in Sources */,
 				DA47EAC728570701003A8ACF /* ItemDetailView.swift in Sources */,
 				DA47EADE28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
@@ -440,11 +450,13 @@
 				DA47EAD028570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
 				DA47EAD9285720D6003A8ACF /* WWDC22Articles.swift in Sources */,
 				DA47EAD328571D61003A8ACF /* HomeView.swift in Sources */,
-				DA47EAEE285975A5003A8ACF /*  Adopt desktop-class editing interactions.swift in Sources */,
+				DA47EAEE285975A5003A8ACF /* Adopt desktop-class editing interactions.swift in Sources */,
 				DA47EAE828596F87003A8ACF /* Add accessibility to your Unity games.swift in Sources */,
+				DA47EAF428597914003A8ACF /* Bring your world into augmented reality .swift in Sources */,
 				DA47EAAB2857035D003A8ACF /* Persistence.swift in Sources */,
 				DA47EADC28574A3F003A8ACF /* ComplicationsAndWidgetsReloadedArticle.swift in Sources */,
 				DA47EAE52857FADE003A8ACF /* Bring your driver to iPad with DriverKit.swift in Sources */,
+				DA47EAF1285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift in Sources */,
 				DA47EAC828570701003A8ACF /* ItemDetailView.swift in Sources */,
 				DA47EADF28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,

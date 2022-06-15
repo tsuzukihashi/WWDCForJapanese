@@ -184,11 +184,11 @@ enum WWDC22Articles: CaseIterable {
         case .Adoptdesktopclasseditinginteractions:
             return .init(item: AdoptDesktopClassEditingInteractions())
         case .BringContinuityCameratoyourmacOSapp:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: BringContinuityCameraToYourMacOSApp())
         case .BringyourdrivertoiPadwithDriverKit:
             return .init(item: BringYourDriverToiPadWithDriverKit())
         case .Bringyourworldintoaugmentedreality:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: BringYourWorldIntoAugmentedReality())
         case .BuildyourfirstappinSwiftPlaygrounds:
             return .init(item: HelloSwiftChartsArticle())
         case .CapturemachinereadablecodesandtextwithVisionKit:
