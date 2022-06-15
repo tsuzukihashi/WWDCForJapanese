@@ -72,6 +72,8 @@
 		DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */; };
 		DA47EB112859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */; };
 		DA47EB122859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */; };
+		DA47EB142859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB132859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift */; };
+		DA47EB152859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB132859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -132,6 +134,7 @@
 		DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverMetal3Article.swift; sourceTree = "<group>"; };
 		DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dive into App Intents .swift"; sourceTree = "<group>"; };
 		DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Enhance collaboration experiences with Messages.swift"; sourceTree = "<group>"; };
+		DA47EB132859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Enhance voice communication with Push to Talk .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -313,6 +316,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EB102859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift */,
+				DA47EB132859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift */,
 			);
 			path = Enhance;
 			sourceTree = "<group>";
@@ -481,6 +485,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EB142859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACC28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA42857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
 				DA47EACF28570CCE003A8ACF /* ArticleProtocol.swift in Sources */,
@@ -517,6 +522,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA47EB152859D9EC003A8ACF /* Enhance voice communication with Push to Talk .swift in Sources */,
 				DA47EACD28570C61003A8ACF /* What's new in SF Symbols 4.swift in Sources */,
 				DA47EAA52857035D003A8ACF /* WWDCForJapanese.xcdatamodeld in Sources */,
 				DA47EAD028570CCE003A8ACF /* ArticleProtocol.swift in Sources */,

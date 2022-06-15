@@ -210,7 +210,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .EnhancecollaborationexperienceswithMessages:
             return .init(item: EnhanceCollaborationExperiencesWithMessages())
         case .EnhancevoicecommunicationwithPushtoTalk:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: EnhanceVoiceCommunicationWithPushToTalk())
         case .ExploremorecontentwithMusicKit:
             return .init(item: HelloSwiftChartsArticle())
         case .GetmoremileageoutofyourappwithCarPlay:
