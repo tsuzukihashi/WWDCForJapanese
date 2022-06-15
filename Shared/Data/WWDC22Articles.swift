@@ -220,7 +220,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .GettimelyalertsfromBluetoothdevicesonwatchOS:
             return .init(item: GetTimelyAlertsFromBluetoothDevicesOnWatchOS())
         case .GettoknowCreateMLComponents:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: GetToKnowCreateMLComponents())
         case .GettoknowDeveloperMode:
             return .init(item: HelloSwiftChartsArticle())
         case .HelloSwiftCharts:

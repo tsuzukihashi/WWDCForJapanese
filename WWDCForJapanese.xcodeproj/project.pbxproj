@@ -82,6 +82,8 @@
 		DA47EB212859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */; };
 		DA47EB242859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */; };
 		DA47EB252859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */; };
+		DA47EB282859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */; };
+		DA47EB292859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -147,6 +149,7 @@
 		DA47EB1B2859DDE3003A8ACF /* Get more mileage out of your app with CarPlay .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get more mileage out of your app with CarPlay .swift"; sourceTree = "<group>"; };
 		DA47EB1F2859E0BF003A8ACF /* Get the most out of Xcode Cloud .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the most out of Xcode Cloud .swift"; sourceTree = "<group>"; };
 		DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get timely alerts from Bluetooth devices on watchOS .swift"; sourceTree = "<group>"; };
+		DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get to know Create ML Components .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -286,13 +289,15 @@
 		DA47EACA28570C45003A8ACF /* WWDC22 */ = {
 			isa = PBXGroup;
 			children = (
-				DA47EB0E2859D790003A8ACF /* Create */,
+				DA47EB0E2859D790003A8ACF /* Other */,
+				DA47EB262859E2E1003A8ACF /* CreateML */,
 				DA47EB1A2859DDD5003A8ACF /* CarPlay */,
 				DA47EB0F2859D7A2003A8ACF /* Enhance */,
 				DA47EB0D2859D782003A8ACF /* What's New */,
 				DA47EB162859DB3E003A8ACF /* MusicKit */,
 				DA47EB1E2859E0B0003A8ACF /* Xcode Cloud */,
 				DA47EB222859E1B5003A8ACF /* watchOS */,
+				DA47EB2A2859E30B003A8ACF /* macOS */,
 				DA47EB072859D460003A8ACF /* DiscoverMetal3Article.swift */,
 				DA47EB042859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift */,
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
@@ -319,13 +324,12 @@
 			path = "What's New";
 			sourceTree = "<group>";
 		};
-		DA47EB0E2859D790003A8ACF /* Create */ = {
+		DA47EB0E2859D790003A8ACF /* Other */ = {
 			isa = PBXGroup;
 			children = (
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
-				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
 			);
-			path = Create;
+			path = Other;
 			sourceTree = "<group>";
 		};
 		DA47EB0F2859D7A2003A8ACF /* Enhance */ = {
@@ -367,6 +371,22 @@
 				DA47EB232859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift */,
 			);
 			path = watchOS;
+			sourceTree = "<group>";
+		};
+		DA47EB262859E2E1003A8ACF /* CreateML */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB272859E2EC003A8ACF /* Get to know Create ML Components .swift */,
+			);
+			path = CreateML;
+			sourceTree = "<group>";
+		};
+		DA47EB2A2859E30B003A8ACF /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+				DA47EB012859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift */,
+			);
+			path = macOS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -557,6 +577,7 @@
 				DA47EB052859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0B2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB022859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
+				DA47EB282859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
 				DA47EB182859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
 				DA47EB242859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
@@ -598,6 +619,7 @@
 				DA47EB062859D14D003A8ACF /* Deliver reliable streams with HLS Content Steering .swift in Sources */,
 				DA47EB0C2859D660003A8ACF /* Dive into App Intents .swift in Sources */,
 				DA47EB032859BBCB003A8ACF /* Create macOS or Linux virtual machines.swift in Sources */,
+				DA47EB292859E2EC003A8ACF /* Get to know Create ML Components .swift in Sources */,
 				DA47EB192859DB4C003A8ACF /* Explore more content with MusicKit .swift in Sources */,
 				DA47EB252859E1BF003A8ACF /* Get timely alerts from Bluetooth devices on watchOS .swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
