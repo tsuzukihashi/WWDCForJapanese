@@ -100,6 +100,8 @@
 		DA47EB46285A0E63003A8ACF /* Meet Swift Regex .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */; };
 		DA47EB49285A114F003A8ACF /* Meet WeatherKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */; };
 		DA47EB4A285A114F003A8ACF /* Meet WeatherKit .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */; };
+		DA47EB4C285A11F7003A8ACF /* Meet Web Push for Safari .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */; };
+		DA47EB4D285A11F7003A8ACF /* Meet Web Push for Safari .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -174,6 +176,7 @@
 		DA47EB41285A0D72003A8ACF /* Meet Swift Async Algorithms .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Swift Async Algorithms .swift"; sourceTree = "<group>"; };
 		DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Swift Regex .swift"; sourceTree = "<group>"; };
 		DA47EB48285A114F003A8ACF /* Meet WeatherKit .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet WeatherKit .swift"; sourceTree = "<group>"; };
+		DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meet Web Push for Safari .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -355,6 +358,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
+				DA47EB4B285A11F7003A8ACF /* Meet Web Push for Safari .swift */,
 				DA47EB44285A0E63003A8ACF /* Meet Swift Regex .swift */,
 				DA47EB2B285A0356003A8ACF /* Get to know Developer Mode .swift */,
 				DA47EB3E285A0BFF003A8ACF /* Meet Focus filters .swift */,
@@ -645,6 +649,7 @@
 				DA47EB45285A0E63003A8ACF /* Meet Swift Regex .swift in Sources */,
 				DA47EAC728570701003A8ACF /* ItemDetailView.swift in Sources */,
 				DA47EADE28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
+				DA47EB4C285A11F7003A8ACF /* Meet Web Push for Safari .swift in Sources */,
 				DA47EAD528571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EB112859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
 				DA47EB2C285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */,
@@ -695,6 +700,7 @@
 				DA47EB46285A0E63003A8ACF /* Meet Swift Regex .swift in Sources */,
 				DA47EAC828570701003A8ACF /* ItemDetailView.swift in Sources */,
 				DA47EADF28577E76003A8ACF /* CreateParametric3DRoomScansWithRoomPlanArticle.swift in Sources */,
+				DA47EB4D285A11F7003A8ACF /* Meet Web Push for Safari .swift in Sources */,
 				DA47EAD628571D82003A8ACF /* MyPageView.swift in Sources */,
 				DA47EB122859D7AC003A8ACF /*  Enhance collaboration experiences with Messages.swift in Sources */,
 				DA47EB2D285A0356003A8ACF /* Get to know Developer Mode .swift in Sources */,

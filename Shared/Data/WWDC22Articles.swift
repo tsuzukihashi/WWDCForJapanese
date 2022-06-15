@@ -240,7 +240,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .MeetWeatherKit:
             return .init(item: MeetWeatherKitArticle())
         case .MeetWebPushforSafari:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: MeetWebPushForSafari())
         case .MeetdesktopclassiPad:
             return .init(item: HelloSwiftChartsArticle())
         case .Meetpasskeys:
