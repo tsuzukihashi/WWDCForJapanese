@@ -190,7 +190,7 @@ enum WWDC22Articles: CaseIterable {
         case .Bringyourworldintoaugmentedreality:
             return .init(item: BringYourWorldIntoAugmentedReality())
         case .BuildyourfirstappinSwiftPlaygrounds:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: BuildYourFirstAppinSwiftPlaygrounds())
         case .CapturemachinereadablecodesandtextwithVisionKit:
             return .init(item: HelloSwiftChartsArticle())
         case .ComplicationsandwidgetsReloaded:

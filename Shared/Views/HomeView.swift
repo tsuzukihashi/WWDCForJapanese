@@ -14,6 +14,7 @@ struct HomeView: View {
                     }
                 }
             }
+            .listStyle(.plain)
             .searchable(text: $searchQuery, placement: .navigationBarDrawer(displayMode: .always), prompt: "Search")
             .onSubmit(of: .search) {
                 if searchQuery.isEmpty {

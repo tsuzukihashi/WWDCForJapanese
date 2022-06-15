@@ -55,6 +55,8 @@
 		DA47EAF1285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */; };
 		DA47EAF328597914003A8ACF /* Bring your world into augmented reality .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */; };
 		DA47EAF428597914003A8ACF /* Bring your world into augmented reality .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */; };
+		DA47EAF628597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */; };
+		DA47EAF728597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +109,7 @@
 		DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adopt desktop-class editing interactions.swift"; sourceTree = "<group>"; };
 		DA47EAEF285977C5003A8ACF /* Bring Continuity Camera to your macOS app .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bring Continuity Camera to your macOS app .swift"; sourceTree = "<group>"; };
 		DA47EAF228597914003A8ACF /* Bring your world into augmented reality .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bring your world into augmented reality .swift"; sourceTree = "<group>"; };
+		DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Build your first app in Swift Playgrounds .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,6 +249,7 @@
 			isa = PBXGroup;
 			children = (
 				DA47EACB28570C61003A8ACF /* What's new in SF Symbols 4.swift */,
+				DA47EAF528597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift */,
 				DA47EAE9285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift */,
 				DA47EAEC285975A5003A8ACF /* Adopt desktop-class editing interactions.swift */,
 				DA47EAE628596F87003A8ACF /* Add accessibility to your Unity games.swift */,
@@ -436,6 +440,7 @@
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EAE1285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EAEA285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
+				DA47EAF628597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */,
 				DA47EAA82857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC1285703C2003A8ACF /* ArrayExt.swift in Sources */,
 			);
@@ -464,6 +469,7 @@
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
 				DA47EAE2285780D6003A8ACF /* HelloSwiftChartsArticle.swift in Sources */,
 				DA47EAEB285971F7003A8ACF /* Adopt Variable Color in SF Symbols.swift in Sources */,
+				DA47EAF728597DEC003A8ACF /* Build your first app in Swift Playgrounds .swift in Sources */,
 				DA47EAA92857035D003A8ACF /* RootView.swift in Sources */,
 				DA47EAC2285703C2003A8ACF /* ArrayExt.swift in Sources */,
 			);
