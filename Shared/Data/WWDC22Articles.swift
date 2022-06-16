@@ -286,7 +286,7 @@ enum WWDC22Articles: String, CaseIterable {
         case .AddLiveTextinteractiontoyourapp:
             return .init(item: AddLiveTextInteractionToYourApp())
         case .AddSharedwithYoutoyourapp:
-            return .init(item: HelloSwiftChartsArticle())
+            return .init(item: AddSharedWithYouToYourApp())
         case .Adoptdeclarativedevicemanagement:
             return .init(item: HelloSwiftChartsArticle())
         case .BoostperformancewithMetalFXUpscaling:
