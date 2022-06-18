@@ -59,8 +59,7 @@ struct ComplicationsAndWidgetsReloadedArticle: ArticleProtocol {
          Many existing complications take on a colorful appearance in full color, like the gradient in Weather's gauges, or the Activity rings' colors.
          In the accented rendering mode, your views are split into two groups and colored independently.
          The two coloring groups are flatly colored, preserving only their original opacities.
-         You can tell the system how to group your views with the .
-        widgetAccentable() view modifier, or switch out your content based on the Widget Rendering Mode environment value to look perfect when flattened.
+         You can tell the system how to group your views with the .widgetAccentable() view modifier, or switch out your content based on the Widget Rendering Mode environment value to look perfect when flattened.
          Note that the system can tint your content in a number of ways, some of which are inverted.
          Some are on a black background, while others are on the new full-color backgrounds in watchOS 9.
          In the iOS vibrant rendering mode, your content is desaturated then colored appropriately for the Lock Screen background.
@@ -208,8 +207,7 @@ struct ComplicationsAndWidgetsReloadedArticle: ArticleProtocol {
          天気予報のゲージのグラデーションやアクティビティリングの色など、既存の多くのコンプリケーションがフルカラーでカラフルに表示されます。
          アクセント付きレンダリングモードでは、ビューが2つのグループに分割され、それぞれ独立して着色されます。
          2つの着色グループは、元の不透明度のみを保持して平坦に着色されます。
-         ビューをグループ化する方法は、.NET Framework 2.0を使用してシステムに指示することができます。
-        widgetAccentable()ビュー修飾子でビューのグループ化をシステムに指示するか、またはWidget Rendering Mode環境値に基づいてコンテンツを切り替えて、平坦化したときに完璧に見えるようにすることができます。
+         .widgetAccentable() ビュー修飾子でビューをグループ化する方法をシステムに指示したり、Widget Rendering Mode 環境値に基づいてコンテンツを切り替えて、フラット化したときに完璧に見えるようにすることができます。
          システムは、いくつかの方法でコンテンツを着色することができ、そのうちのいくつかは反転していることに注意してください。
          黒い背景のものもあれば、watchOS 9の新しいフルカラー背景のものもあります。
          iOSの鮮やかなレンダリングモードでは、コンテンツは脱色された後、ロック画面の背景に合わせて適切に色付けされます。

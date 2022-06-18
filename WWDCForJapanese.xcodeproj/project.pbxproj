@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		DA1A7CC3285B699B0076DCFC /* Add Shared with You to your app .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1A7CC2285B699B0076DCFC /* Add Shared with You to your app .swift */; };
 		DA1A7CC4285B699B0076DCFC /* Add Shared with You to your app .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1A7CC2285B699B0076DCFC /* Add Shared with You to your app .swift */; };
+		DA1A7CC6285B7CF00076DCFC /* Adopt declarative device management .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1A7CC5285B7CF00076DCFC /* Adopt declarative device management .swift */; };
+		DA1A7CC7285B7CF00076DCFC /* Adopt declarative device management .swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1A7CC5285B7CF00076DCFC /* Adopt declarative device management .swift */; };
 		DA47EA952857035D003A8ACF /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA942857035D003A8ACF /* Tests_iOS.swift */; };
 		DA47EA972857035D003A8ACF /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EA962857035D003A8ACF /* Tests_iOSLaunchTests.swift */; };
 		DA47EAA12857035D003A8ACF /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA47EAA02857035D003A8ACF /* Tests_macOS.swift */; };
@@ -167,6 +169,7 @@
 
 /* Begin PBXFileReference section */
 		DA1A7CC2285B699B0076DCFC /* Add Shared with You to your app .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Shared with You to your app .swift"; sourceTree = "<group>"; };
+		DA1A7CC5285B7CF00076DCFC /* Adopt declarative device management .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adopt declarative device management .swift"; sourceTree = "<group>"; };
 		DA47EA7A2857035C003A8ACF /* Shared.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Shared.xcdatamodel; sourceTree = "<group>"; };
 		DA47EA7B2857035C003A8ACF /* WWDCForJapaneseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWDCForJapaneseApp.swift; sourceTree = "<group>"; };
 		DA47EA7C2857035C003A8ACF /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
@@ -414,6 +417,7 @@
 			children = (
 				DA47EB0A2859D660003A8ACF /* Dive into App Intents .swift */,
 				DA47EB71285A3D23003A8ACF /* What's new in Nearby Interaction .swift */,
+				DA1A7CC5285B7CF00076DCFC /* Adopt declarative device management .swift */,
 				DA1A7CC2285B699B0076DCFC /* Add Shared with You to your app .swift */,
 				DA47EAFE2859B920003A8ACF /* Create a more responsive media app.swift */,
 				DA47EB68285A3916003A8ACF /* What's new in App Clips .swift */,
@@ -833,6 +837,7 @@
 				DA47EB82285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */,
 				DA47EB7F285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
 				DA47EAA62857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA1A7CC6285B7CF00076DCFC /* Adopt declarative device management .swift in Sources */,
 				DA47EB3F285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
 				DA47EB6F285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */,
 				DA47EB5A285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */,
@@ -906,6 +911,7 @@
 				DA47EB83285A4342003A8ACF /* What's new in SwiftUI .swift in Sources */,
 				DA47EB80285A40FE003A8ACF /* What's new in Swift .swift in Sources */,
 				DA47EAA72857035D003A8ACF /* WWDCForJapaneseApp.swift in Sources */,
+				DA1A7CC7285B7CF00076DCFC /* Adopt declarative device management .swift in Sources */,
 				DA47EB40285A0BFF003A8ACF /* Meet Focus filters .swift in Sources */,
 				DA47EB70285A3B8A003A8ACF /* What's new in Create ML .swift in Sources */,
 				DA47EB5B285A17DD003A8ACF /* Program Metal in C++ with metal-cpp .swift in Sources */,
