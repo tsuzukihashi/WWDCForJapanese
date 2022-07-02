@@ -22,7 +22,7 @@ struct HomeView: View {
                 }
             }
             .listStyle(.plain)
-            .searchable(text: $searchQuery, placement: .navigationBarDrawer(displayMode: .always), prompt: "Search")
+            .searchable(text: $searchQuery, placement: .navigationBarDrawer(displayMode: .always), prompt: "セッション名")
             .onSubmit(of: .search) {
                 if searchQuery.isEmpty {
                     articles = WWDC22Articles.allCases
